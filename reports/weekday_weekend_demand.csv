@@ -1,0 +1,3 @@
+IsWeekend,Departures,Arrivals,StationHourRecords,DayType
+False,541332,541134,263492,Weekday
+True,136311,136509,91288,Weekend

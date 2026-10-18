@@ -1,0 +1,21 @@
+Rank,StartStation Id,StartStation Name,EndStation Id,EndStation Name,TripCount,AverageDurationSeconds,AverageDurationMinutes
+1,671,"Parsons Green Station, Parsons Green",729,"St. Peter's Terrace, Fulham",317,212.36593059936908,3.54
+2,729,"St. Peter's Terrace, Fulham",671,"Parsons Green Station, Parsons Green",265,194.49056603773585,3.24
+3,436,"Red Lion Street, Holborn",14,"Belgrove Street , King's Cross",264,460.22727272727275,7.67
+4,74,"Vauxhall Cross, Vauxhall",183,"Riverlight North, Nine Elms",254,265.2755905511811,4.42
+5,191,"Hyde Park Corner, Hyde Park",248,"Triangle Car Park, Hyde Park",240,1593.0,26.55
+6,183,"Riverlight North, Nine Elms",74,"Vauxhall Cross, Vauxhall",231,229.35064935064935,3.82
+7,307,"Black Lion Gate, Kensington Gardens",404,"Palace Gate, Kensington Gardens",231,1186.7532467532467,19.78
+8,785,"Aquatic Centre, Queen Elizabeth Olympic Park",783,"Monier Road, Hackney Wick",218,707.0642201834862,11.78
+9,225,"Notting Hill Gate Station, Notting Hill",661,"All Saints Church, Portobello",213,266.19718309859155,4.44
+10,14,"Belgrove Street , King's Cross",66,"Holborn Circus, Holborn",208,595.3846153846154,9.92
+11,46,"Nesham Street, Wapping",458,"Wapping Lane, Wapping",207,270.1449275362319,4.5
+12,154,"Waterloo Station 3, Waterloo",48,"Godliman Street, St. Paul's",203,563.0541871921182,9.38
+13,191,"Hyde Park Corner, Hyde Park",303,"Albert Gate, Hyde Park",203,2121.576354679803,35.36
+14,248,"Triangle Car Park, Hyde Park",191,"Hyde Park Corner, Hyde Park",197,1406.802030456853,23.45
+15,663,"Clarendon Road, Avondale",622,"Lansdowne Road, Ladbroke Grove",197,245.78680203045684,4.1
+16,14,"Belgrove Street , King's Cross",436,"Red Lion Street, Holborn",196,493.7755102040816,8.23
+17,307,"Black Lion Gate, Kensington Gardens",191,"Hyde Park Corner, Hyde Park",195,1700.6153846153845,28.34
+18,154,"Waterloo Station 3, Waterloo",71,"Newgate Street , St. Paul's",194,677.0103092783505,11.28
+19,154,"Waterloo Station 3, Waterloo",136,"Queen Victoria Street, St. Paul's",194,625.6701030927835,10.43
+20,707,"Barons Court Station, West Kensington",635,"Greyhound Road, Hammersmith",191,381.3612565445026,6.36

@@ -1,0 +1,5 @@
+Rank,StartStation Id,StartStation Name,EndStation Id,EndStation Name,TripCount,AverageDurationSeconds,AverageDurationMinutes,StartLatitude,StartLongitude,EndLatitude,EndLongitude
+3,436,"Red Lion Street, Holborn",14,"Belgrove Street , King's Cross",264,460.22727272727275,7.67,51.51824,-0.11655,,
+9,225,"Notting Hill Gate Station, Notting Hill",661,"All Saints Church, Portobello",213,266.19718309859155,4.44,,,51.51632,-0.202608
+10,14,"Belgrove Street , King's Cross",66,"Holborn Circus, Holborn",208,595.3846153846154,9.92,,,51.51795,-0.108657
+16,14,"Belgrove Street , King's Cross",436,"Red Lion Street, Holborn",196,493.7755102040816,8.23,,,51.51824,-0.11655

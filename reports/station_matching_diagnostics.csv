@@ -1,0 +1,786 @@
+Station Id,Station Name,NameKey,ID_Match,Name_Match,CurrentName_ByID,CurrentID_ByName,Latitude_ByName,Longitude_ByName,MatchStatus
+1,"River Street , Clerkenwell","river street, clerkenwell",True,True,"River Street , Clerkenwell",1,51.529163,-0.10997,ID_AND_NAME_MATCH
+2,"Phillimore Gardens, Kensington","phillimore gardens, kensington",True,True,"Phillimore Gardens, Kensington",2,51.499606,-0.197574,ID_AND_NAME_MATCH
+3,"Christopher Street, Liverpool Street","christopher street, liverpool street",True,True,"Christopher Street, Liverpool Street",3,51.521283,-0.084605,ID_AND_NAME_MATCH
+4,"St. Chad's Street, King's Cross","st. chad's street, king's cross",True,True,"St. Chad's Street, King's Cross",4,51.530059,-0.120973,ID_AND_NAME_MATCH
+5,"Sedding Street, Sloane Square","sedding street, sloane square",True,True,"Sedding Street, Sloane Square",5,51.49313,-0.156876,ID_AND_NAME_MATCH
+6,"Broadcasting House, Marylebone","broadcasting house, marylebone",True,True,"Broadcasting House, Marylebone",6,51.518117,-0.144228,ID_AND_NAME_MATCH
+7,"Charlbert Street, St. John's Wood","charlbert street, st. john's wood",True,True,"Charlbert Street, St. John's Wood",7,51.5343,-0.168074,ID_AND_NAME_MATCH
+8,"Lodge Road, St. John's Wood","lodge road, st. john's wood",True,False,"Maida Vale, Maida Vale",,,,ID_ONLY_REVIEW_REQUIRED
+9,"New Globe Walk, Bankside","new globe walk, bankside",True,True,"New Globe Walk, Bankside",9,51.507385,-0.09644,ID_AND_NAME_MATCH
+10,"Park Street, Bankside","park street, bankside",True,True,"Park Street, Bankside",10,51.505974,-0.092754,ID_AND_NAME_MATCH
+11,"Brunswick Square, Bloomsbury","brunswick square, bloomsbury",True,True,"Brunswick Square, Bloomsbury",11,51.523951,-0.122502,ID_AND_NAME_MATCH
+12,"Malet Street, Bloomsbury","malet street, bloomsbury",True,True,"Malet Street, Bloomsbury",12,51.52168,-0.130431,ID_AND_NAME_MATCH
+13,"Scala Street, Fitzrovia","scala street, fitzrovia",True,True,"Scala Street, Fitzrovia",13,51.519914,-0.136039,ID_AND_NAME_MATCH
+14,"Belgrove Street , King's Cross","belgrove street, king's cross",True,False,"Argyle Street, Kings Cross",,,,ID_ONLY_REVIEW_REQUIRED
+15,"Great Russell Street, Bloomsbury","great russell street, bloomsbury",True,True,"Great Russell Street, Bloomsbury",15,51.517727,-0.127854,ID_AND_NAME_MATCH
+16,"Cartwright Gardens , Bloomsbury","cartwright gardens, bloomsbury",True,True,"Cartwright Gardens , Bloomsbury",16,51.526357,-0.125979,ID_AND_NAME_MATCH
+17,"Hatton Wall, Holborn","hatton wall, holborn",True,True,"Hatton Wall, Holborn",17,51.521661,-0.109006,ID_AND_NAME_MATCH
+18,"Drury Lane, Covent Garden","drury lane, covent garden",True,True,"Drury Lane, Covent Garden",18,51.51477,-0.122219,ID_AND_NAME_MATCH
+19,"Taviton Street, Bloomsbury","taviton street, bloomsbury",True,True,"Taviton Street, Bloomsbury",19,51.52505,-0.131161,ID_AND_NAME_MATCH
+20,"Drummond Street , Euston","drummond street, euston",True,True,"Drummond Street , Euston",20,51.527326,-0.136052,ID_AND_NAME_MATCH
+21,"Hampstead Road (Cartmel), Euston","hampstead road (cartmel), euston",True,False,"Lansdowne Drive, Hackney Central",,,,ID_ONLY_REVIEW_REQUIRED
+22,"Northington Street , Holborn","northington street, holborn",True,True,"Northington Street , Holborn",22,51.522264,-0.114079,ID_AND_NAME_MATCH
+23,"Red Lion Square, Holborn","red lion square, holborn",True,True,"Red Lion Square, Holborn",23,51.519435,-0.119123,ID_AND_NAME_MATCH
+24,"British Museum, Bloomsbury","british museum, bloomsbury",True,True,"British Museum, Bloomsbury",24,51.51908,-0.124678,ID_AND_NAME_MATCH
+25,"Doric Way , Somers Town","doric way, somers town",True,True,"Doric Way , Somers Town",25,51.528833,-0.13225,ID_AND_NAME_MATCH
+26,"Ampton Street , Clerkenwell","ampton street, clerkenwell",True,True,"Ampton Street , Clerkenwell",26,51.52728,-0.118295,ID_AND_NAME_MATCH
+27,"Bouverie Street, Temple","bouverie street, temple",False,False,,,,,NO_MATCH_REVIEW_REQUIRED
+28,"Bolsover Street, Fitzrovia","bolsover street, fitzrovia",True,True,"Bolsover Street, Fitzrovia",28,51.523518,-0.143613,ID_AND_NAME_MATCH
+29,"Hereford Road, Bayswater","hereford road, bayswater",True,True,"Hereford Road, Bayswater",29,51.513735,-0.193487,ID_AND_NAME_MATCH
+30,"Windsor Terrace, Hoxton","windsor terrace, hoxton",True,True,"Windsor Terrace, Hoxton",30,51.529154,-0.093421,ID_AND_NAME_MATCH
+31,"Fanshaw Street, Hoxton","fanshaw street, hoxton",True,True,"Fanshaw Street, Hoxton",31,51.529537,-0.083353,ID_AND_NAME_MATCH
+32,"Leonard Circus , Shoreditch","leonard circus, shoreditch",False,True,,865,51.524696,-0.084439,NAME_ONLY_MATCH
+33,"Central House, Aldgate","central house, aldgate",True,True,"Central House, Aldgate",33,51.515231,-0.07015,ID_AND_NAME_MATCH
+34,"Pancras Road, King's Cross","pancras road, king's cross",True,True,"Pancras Road, King's Cross",34,51.534123,-0.129386,ID_AND_NAME_MATCH
+36,"De Vere Gardens, Kensington","de vere gardens, kensington",True,True,"De Vere Gardens, Kensington",36,51.501737,-0.18498,ID_AND_NAME_MATCH
+37,"Penywern Road, Earl's Court","penywern road, earl's court",True,True,"Penywern Road, Earl's Court",37,51.491593,-0.192369,ID_AND_NAME_MATCH
+38,"Abingdon Villas, Kensington","abingdon villas, kensington",True,True,"Abingdon Villas, Kensington",38,51.497387,-0.197245,ID_AND_NAME_MATCH
+39,"Shoreditch High Street, Shoreditch","shoreditch high street, shoreditch",True,True,"Shoreditch High Street, Shoreditch",39,51.526377,-0.07813,ID_AND_NAME_MATCH
+40,"Commercial Street, Shoreditch","commercial street, shoreditch",True,True,"Commercial Street, Shoreditch",40,51.52127,-0.075578,ID_AND_NAME_MATCH
+41,"Pindar Street, Liverpool Street","pindar street, liverpool street",True,True,"Pindar Street, Liverpool Street",41,51.520955,-0.083493,ID_AND_NAME_MATCH
+42,"Wenlock Road , Hoxton","wenlock road, hoxton",True,True,"Wenlock Road , Hoxton",42,51.530991,-0.093903,ID_AND_NAME_MATCH
+43,"Crawford Street, Marylebone","crawford street, marylebone",True,True,"Crawford Street, Marylebone",43,51.52026,-0.157183,ID_AND_NAME_MATCH
+44,"Bruton Street, Mayfair","bruton street, mayfair",True,True,"Bruton Street, Mayfair",44,51.510736,-0.144165,ID_AND_NAME_MATCH
+45,"Boston Place, Marylebone","boston place, marylebone",True,True,"Boston Place, Marylebone",45,51.522511,-0.162298,ID_AND_NAME_MATCH
+46,"Nesham Street, Wapping","nesham street, wapping",True,True,"Nesham Street, Wapping",46,51.507131,-0.06691,ID_AND_NAME_MATCH
+47,"Warwick Avenue Station, Maida Vale","warwick avenue station, maida vale",True,True,"Warwick Avenue Station, Maida Vale",47,51.523344,-0.183846,ID_AND_NAME_MATCH
+48,"Godliman Street, St. Paul's","godliman street, st. paul's",True,True,"Godliman Street, St. Paul's",48,51.512484,-0.099141,ID_AND_NAME_MATCH
+49,"Curzon Street, Mayfair","curzon street, mayfair",True,True,"Curzon Street, Mayfair",49,51.507069,-0.145904,ID_AND_NAME_MATCH
+50,"East Road, Hoxton","east road, hoxton",True,True,"East Road, Hoxton",50,51.528673,-0.087459,ID_AND_NAME_MATCH
+51,"Finsbury Library , Finsbury","finsbury library, finsbury",True,True,"Finsbury Library , Finsbury",51,51.526717,-0.104298,ID_AND_NAME_MATCH
+52,"Roscoe Street, St. Luke's","roscoe street, st. luke's",True,True,"Roscoe Street, St. Luke's",52,51.522954,-0.094934,ID_AND_NAME_MATCH
+53,"Grafton Street, Mayfair","grafton street, mayfair",True,True,"Grafton Street, Mayfair",53,51.509992,-0.143495,ID_AND_NAME_MATCH
+54,"Golden Lane, Barbican","golden lane, barbican",True,True,"Golden Lane, Barbican",54,51.521747,-0.094475,ID_AND_NAME_MATCH
+55,"Finsbury Circus, Liverpool Street","finsbury circus, liverpool street",True,True,"Finsbury Circus, Liverpool Street",55,51.517075,-0.086685,ID_AND_NAME_MATCH
+56,"Paddington Street, Marylebone","paddington street, marylebone",True,True,"Paddington Street, Marylebone",56,51.520583,-0.154701,ID_AND_NAME_MATCH
+57,"Guilford Street , Bloomsbury","guilford street, bloomsbury",True,True,"Guilford Street , Bloomsbury",57,51.523346,-0.120202,ID_AND_NAME_MATCH
+58,"New Inn Yard, Shoreditch","new inn yard, shoreditch",True,True,"New Inn Yard, Shoreditch",58,51.524526,-0.079248,ID_AND_NAME_MATCH
+60,"Lisson Grove, St. John's Wood","lisson grove, st. john's wood",True,True,"Lisson Grove, St. John's Wood",60,51.526448,-0.17219,ID_AND_NAME_MATCH
+61,"Great Dover Street, The Borough","great dover street, the borough",True,True,"Great Dover Street, The Borough",61,51.497382,-0.089446,ID_AND_NAME_MATCH
+62,"Cotton Garden Estate, Kennington","cotton garden estate, kennington",True,True,"Cotton Garden Estate, Kennington",62,51.490757,-0.106323,ID_AND_NAME_MATCH
+63,"Murray Grove , Hoxton","murray grove, hoxton",True,True,"Murray Grove , Hoxton",63,51.53089,-0.089782,ID_AND_NAME_MATCH
+64,"William IV Street, Strand","william iv street, strand",True,True,"William IV Street, Strand",64,51.509462,-0.124749,ID_AND_NAME_MATCH
+65,"Gower Place , Euston","gower place, euston",True,True,"Gower Place , Euston",65,51.525227,-0.135188,ID_AND_NAME_MATCH
+66,"Holborn Circus, Holborn","holborn circus, holborn",True,True,"Holborn Circus, Holborn",66,51.51795,-0.108657,ID_AND_NAME_MATCH
+67,"Hatton Garden, Holborn","hatton garden, holborn",True,True,"Hatton Garden, Holborn",67,51.518825,-0.108028,ID_AND_NAME_MATCH
+68,"Theobald's Road , Holborn","theobald's road, holborn",True,True,"Theobald's Road , Holborn",68,51.520596,-0.116688,ID_AND_NAME_MATCH
+69,"Euston Road, Euston","euston road, euston",True,True,"Euston Road, Euston",69,51.526236,-0.134407,ID_AND_NAME_MATCH
+70,"Calshot Street , King's Cross","calshot street, king's cross",True,True,"Calshot Street , King's Cross",70,51.53136,-0.117069,ID_AND_NAME_MATCH
+71,"Newgate Street , St. Paul's","newgate street, st. paul's",True,True,"Newgate Street , St. Paul's",71,51.515768,-0.099894,ID_AND_NAME_MATCH
+72,"Farringdon Lane, Clerkenwell","farringdon lane, clerkenwell",True,True,"Farringdon Lane, Clerkenwell",72,51.52352,-0.10834,ID_AND_NAME_MATCH
+73,"Old Street Station, St. Luke's","old street station, st. luke's",True,True,"Old Street Station, St. Luke's",73,51.525615,-0.088532,ID_AND_NAME_MATCH
+74,"Vauxhall Cross, Vauxhall","vauxhall cross, vauxhall",True,True,"Vauxhall Cross, Vauxhall",74,51.485917,-0.124469,ID_AND_NAME_MATCH
+75,"Torrens Street, Angel","torrens street, angel",True,True,"Torrens Street, Angel",75,51.532199,-0.10548,ID_AND_NAME_MATCH
+76,"Longford Street, The Regent's Park","longford street, the regent's park",True,True,"Longford Street, The Regent's Park",76,51.525595,-0.144083,ID_AND_NAME_MATCH
+77,"Russell Square Station, Bloomsbury","russell square station, bloomsbury",True,True,"Russell Square Station, Bloomsbury",77,51.523418,-0.124121,ID_AND_NAME_MATCH
+78,"Sadlers Sports Centre, Finsbury","sadlers sports centre, finsbury",True,True,"Sadlers Sports Centre, Finsbury",78,51.524868,-0.099489,ID_AND_NAME_MATCH
+79,"Arundel Street, Temple","arundel street, temple",True,True,"Arundel Street, Temple",79,51.511726,-0.113855,ID_AND_NAME_MATCH
+80,"Webber Street , Southwark","webber street, southwark",True,True,"Webber Street , Southwark",80,51.500693,-0.102091,ID_AND_NAME_MATCH
+81,"Great Titchfield Street, Fitzrovia","great titchfield street, fitzrovia",True,True,"Great Titchfield Street, Fitzrovia",81,51.520253,-0.141327,ID_AND_NAME_MATCH
+82,"Chancery Lane, Holborn","chancery lane, holborn",False,False,,,,,NO_MATCH_REVIEW_REQUIRED
+83,"Panton Street, West End","panton street, west end",True,True,"Panton Street, West End",83,51.509639,-0.13151,ID_AND_NAME_MATCH
+84,"Breams Buildings, Holborn","breams buildings, holborn",True,True,"Breams Buildings, Holborn",84,51.515937,-0.111778,ID_AND_NAME_MATCH
+85,"Tanner Street, Bermondsey","tanner street, bermondsey",True,True,"Tanner Street, Bermondsey",85,51.500647,-0.0786,ID_AND_NAME_MATCH
+86,"Sancroft Street, Vauxhall","sancroft street, vauxhall",True,True,"Sancroft Street, Vauxhall",86,51.489479,-0.115156,ID_AND_NAME_MATCH
+87,"Devonshire Square, Liverpool Street","devonshire square, liverpool street",True,True,"Devonshire Square, Liverpool Street",87,51.516468,-0.079684,ID_AND_NAME_MATCH
+88,"Bayley Street , Bloomsbury","bayley street, bloomsbury",True,False,"Percy Street, Bloomsbury",,,,ID_ONLY_REVIEW_REQUIRED
+89,"Tavistock Place, Bloomsbury","tavistock place, bloomsbury",True,True,"Tavistock Place, Bloomsbury",89,51.52625,-0.123509,ID_AND_NAME_MATCH
+90,"Harrington Square 1, Camden Town","harrington square 1, camden town",True,True,"Harrington Square 1, Camden Town",90,51.533019,-0.139174,ID_AND_NAME_MATCH
+91,"Walnut Tree Walk, Vauxhall","walnut tree walk, vauxhall",True,True,"Walnut Tree Walk, Vauxhall",91,51.493686,-0.111014,ID_AND_NAME_MATCH
+92,"Borough Road, Elephant & Castle","borough road, elephant & castle",True,True,"Borough Road, Elephant & Castle",92,51.498898,-0.10044,ID_AND_NAME_MATCH
+93,"Cloudesley Road, Angel","cloudesley road, angel",True,True,"Cloudesley Road, Angel",93,51.534408,-0.109025,ID_AND_NAME_MATCH
+94,"Bricklayers Arms, Borough","bricklayers arms, borough",True,True,"Bricklayers Arms, Borough",94,51.495061,-0.085814,ID_AND_NAME_MATCH
+95,"Aldersgate Street, Barbican","aldersgate street, barbican",True,True,"Aldersgate Street, Barbican",95,51.520841,-0.09734,ID_AND_NAME_MATCH
+96,"Falkirk Street, Hoxton","falkirk street, hoxton",True,True,"Falkirk Street, Hoxton",96,51.53095,-0.078505,ID_AND_NAME_MATCH
+97,"Gloucester Road (North), Kensington","gloucester road (north), kensington",True,True,"Gloucester Road (North), Kensington",97,51.497924,-0.183834,ID_AND_NAME_MATCH
+98,"Hampstead Road, Euston","hampstead road, euston",True,True,"Hampstead Road, Euston",98,51.525542,-0.138231,ID_AND_NAME_MATCH
+99,"Old Quebec Street, Marylebone","old quebec street, marylebone",False,True,,876,51.514577,-0.158264,NAME_ONLY_MATCH
+100,"Albert Embankment, Vauxhall","albert embankment, vauxhall",False,True,,869,51.490435,-0.122806,NAME_ONLY_MATCH
+101,"Queen Street 1, Bank","queen street 1, bank",True,True,"Queen Street 1, Bank",101,51.511553,-0.09294,ID_AND_NAME_MATCH
+102,"Jewry Street, Aldgate","jewry street, aldgate",True,True,"Jewry Street, Aldgate",102,51.513406,-0.076793,ID_AND_NAME_MATCH
+103,"Vicarage Gate, Kensington","vicarage gate, kensington",True,True,"Vicarage Gate, Kensington",103,51.504723,-0.192538,ID_AND_NAME_MATCH
+104,"Crosswall, Tower","crosswall, tower",True,True,"Crosswall, Tower",104,51.511594,-0.077121,ID_AND_NAME_MATCH
+105,"Westbourne Grove, Bayswater","westbourne grove, bayswater",True,True,"Westbourne Grove, Bayswater",105,51.515529,-0.19024,ID_AND_NAME_MATCH
+106,"Woodstock Street, Mayfair","woodstock street, mayfair",True,True,"Woodstock Street, Mayfair",106,51.514105,-0.147301,ID_AND_NAME_MATCH
+107,"Finsbury Leisure Centre, St. Luke's","finsbury leisure centre, st. luke's",True,True,"Finsbury Leisure Centre, St. Luke's",107,51.526008,-0.096317,ID_AND_NAME_MATCH
+108,"Abbey Orchard Street, Westminster","abbey orchard street, westminster",False,True,,864,51.498125,-0.132102,NAME_ONLY_MATCH
+109,"Soho Square , Soho","soho square, soho",True,True,"Soho Square , Soho",109,51.515631,-0.132328,ID_AND_NAME_MATCH
+110,"Wellington Road, St. John's Wood","wellington road, st. john's wood",True,True,"Wellington Road, St. John's Wood",110,51.533043,-0.172528,ID_AND_NAME_MATCH
+111,"Park Lane , Hyde Park","park lane, hyde park",True,True,"Park Lane , Hyde Park",111,51.510017,-0.157275,ID_AND_NAME_MATCH
+112,"Stonecutter Street, Holborn","stonecutter street, holborn",True,True,"Stonecutter Street, Holborn",112,51.515809,-0.10527,ID_AND_NAME_MATCH
+113,"Gloucester Road (Central), South Kensington","gloucester road (central), south kensington",True,True,"Gloucester Road (Central), South Kensington",113,51.496462,-0.183289,ID_AND_NAME_MATCH
+114,"Park Road (Baker Street), The Regent's Park","park road (baker street), the regent's park",True,True,"Park Road (Baker Street), The Regent's Park",114,51.524517,-0.158963,ID_AND_NAME_MATCH
+115,"Braham Street, Aldgate","braham street, aldgate",True,True,"Braham Street, Aldgate",115,51.514233,-0.073537,ID_AND_NAME_MATCH
+116,"Little Argyll Street, West End","little argyll street, west end",True,True,"Little Argyll Street, West End",116,51.514499,-0.141423,ID_AND_NAME_MATCH
+117,"Lollard Street, Vauxhall","lollard street, vauxhall",True,True,"Lollard Street, Vauxhall",117,51.49288,-0.114934,ID_AND_NAME_MATCH
+118,"Rochester Row, Westminster","rochester row, westminster",True,True,"Rochester Row, Westminster",118,51.495827,-0.135478,ID_AND_NAME_MATCH
+119,"Bath Street, St. Luke's","bath street, st. luke's",True,True,"Bath Street, St. Luke's",119,51.525893,-0.090847,ID_AND_NAME_MATCH
+120,"The Guildhall, Guildhall","the guildhall, guildhall",True,True,"The Guildhall, Guildhall",120,51.515735,-0.09308,ID_AND_NAME_MATCH
+121,"Baker Street, Marylebone","baker street, marylebone",True,True,"Baker Street, Marylebone",121,51.518913,-0.156166,ID_AND_NAME_MATCH
+122,"Norton Folgate, Liverpool Street","norton folgate, liverpool street",False,True,,888,51.521113,-0.078869,NAME_ONLY_MATCH
+123,"St. John Street, Finsbury","st. john street, finsbury",True,True,"St. John Street, Finsbury",123,51.52836,-0.104724,ID_AND_NAME_MATCH
+124,"Eaton Square, Belgravia","eaton square, belgravia",True,True,"Eaton Square, Belgravia",124,51.496544,-0.150905,ID_AND_NAME_MATCH
+125,"Borough High Street, The Borough","borough high street, the borough",True,True,"Borough High Street, The Borough",125,51.500694,-0.094524,ID_AND_NAME_MATCH
+126,"Museum of London, Barbican","museum of london, barbican",True,True,"Museum of London, Barbican",126,51.517821,-0.096496,ID_AND_NAME_MATCH
+127,"Wood Street, Guildhall","wood street, guildhall",True,True,"Wood Street, Guildhall",127,51.517008,-0.093885,ID_AND_NAME_MATCH
+128,"Emperor's Gate, South Kensington","emperor's gate, south kensington",True,True,"Emperor's Gate, South Kensington",128,51.495362,-0.185296,ID_AND_NAME_MATCH
+129,"Golden Square, Soho","golden square, soho",True,True,"Golden Square, Soho",129,51.511897,-0.137043,ID_AND_NAME_MATCH
+130,"Tower Gardens , Tower","tower gardens, tower",True,True,"Tower Gardens , Tower",130,51.509506,-0.075459,ID_AND_NAME_MATCH
+131,"Eversholt Street , Camden Town","eversholt street, camden town",True,True,"Eversholt Street , Camden Town",131,51.533005,-0.136792,ID_AND_NAME_MATCH
+132,"Bethnal Green Road, Shoreditch","bethnal green road, shoreditch",True,True,"Bethnal Green Road, Shoreditch",132,51.523648,-0.074754,ID_AND_NAME_MATCH
+133,"Derry Street, Kensington","derry street, kensington",True,True,"Derry Street, Kensington",133,51.501364,-0.191462,ID_AND_NAME_MATCH
+134,"Wapping High Street, Wapping","wapping high street, wapping",True,True,"Wapping High Street, Wapping",134,51.504904,-0.06797,ID_AND_NAME_MATCH
+135,"Clerkenwell Green, Clerkenwell","clerkenwell green, clerkenwell",True,True,"Clerkenwell Green, Clerkenwell",135,51.52326,-0.104708,ID_AND_NAME_MATCH
+136,"Queen Victoria Street, St. Paul's","queen victoria street, st. paul's",True,True,"Queen Victoria Street, St. Paul's",136,51.511961,-0.097441,ID_AND_NAME_MATCH
+138,"Green Street, Mayfair","green street, mayfair",True,True,"Green Street, Mayfair",138,51.512276,-0.157436,ID_AND_NAME_MATCH
+139,"Lambeth Road, Vauxhall","lambeth road, vauxhall",True,True,"Lambeth Road, Vauxhall",139,51.494881,-0.117974,ID_AND_NAME_MATCH
+140,"Finsbury Square , Moorgate","finsbury square, moorgate",True,True,"Finsbury Square , Moorgate",140,51.520962,-0.085634,ID_AND_NAME_MATCH
+141,"Chapel Place, Marylebone","chapel place, marylebone",True,True,"Chapel Place, Marylebone",141,51.515308,-0.147203,ID_AND_NAME_MATCH
+142,"West Cromwell Road, Earl's Court","west cromwell road, earl's court",True,True,"West Cromwell Road, Earl's Court",142,51.493724,-0.198286,ID_AND_NAME_MATCH
+143,"Pont Street, Knightsbridge","pont street, knightsbridge",True,True,"Pont Street, Knightsbridge",143,51.496886,-0.161203,ID_AND_NAME_MATCH
+144,"Kennington Cross, Kennington","kennington cross, kennington",True,True,"Kennington Cross, Kennington",144,51.48894,-0.111435,ID_AND_NAME_MATCH
+145,"Ilchester Place, Kensington","ilchester place, kensington",True,True,"Ilchester Place, Kensington",145,51.500743,-0.202759,ID_AND_NAME_MATCH
+146,"Vauxhall Bridge , Pimlico","vauxhall bridge, pimlico",True,True,"Vauxhall Bridge , Pimlico",146,51.488365,-0.129361,ID_AND_NAME_MATCH
+148,"Tachbrook Street, Victoria","tachbrook street, victoria",True,True,"Tachbrook Street, Victoria",148,51.492111,-0.138364,ID_AND_NAME_MATCH
+149,"Kennington Road Post Office, Oval","kennington road post office, oval",True,True,"Kennington Road Post Office, Oval",149,51.484788,-0.110683,ID_AND_NAME_MATCH
+150,"Holy Trinity Brompton, Knightsbridge","holy trinity brompton, knightsbridge",True,True,"Holy Trinity Brompton, Knightsbridge",150,51.497056,-0.168917,ID_AND_NAME_MATCH
+151,"Chepstow Villas, Notting Hill","chepstow villas, notting hill",True,True,"Chepstow Villas, Notting Hill",151,51.512136,-0.201554,ID_AND_NAME_MATCH
+152,"Hampton Street, Walworth","hampton street, walworth",True,True,"Hampton Street, Walworth",152,51.49217,-0.101536,ID_AND_NAME_MATCH
+153,"Bayswater Road, Hyde Park","bayswater road, hyde park",True,True,"Bayswater Road, Hyde Park",153,51.511933,-0.174411,ID_AND_NAME_MATCH
+154,"Waterloo Station 3, Waterloo","waterloo station 3, waterloo",True,True,"Waterloo Station 3, Waterloo",154,51.503791,-0.112824,ID_AND_NAME_MATCH
+155,"Lexham Gardens, Kensington","lexham gardens, kensington",True,True,"Lexham Gardens, Kensington",155,51.495866,-0.191933,ID_AND_NAME_MATCH
+156,"New Kent Road, The Borough","new kent road, the borough",True,True,"New Kent Road, The Borough",156,51.494436,-0.092921,ID_AND_NAME_MATCH
+157,"Wright's Lane, Kensington","wright's lane, kensington",True,True,"Wright's Lane, Kensington",157,51.500397,-0.193068,ID_AND_NAME_MATCH
+158,"Trebovir Road, Earl's Court","trebovir road, earl's court",True,True,"Trebovir Road, Earl's Court",158,51.490853,-0.19617,ID_AND_NAME_MATCH
+159,"Great Marlborough Street, Soho","great marlborough street, soho",False,False,,,,,NO_MATCH_REVIEW_REQUIRED
+160,"Waterloo Place, St. James's","waterloo place, st. james's",True,True,"Waterloo Place, St. James's",160,51.506633,-0.131773,ID_AND_NAME_MATCH
+161,"Guildhouse Street, Victoria","guildhouse street, victoria",False,False,,,,,NO_MATCH_REVIEW_REQUIRED
+162,"Southampton Place, Holborn","southampton place, holborn",True,True,"Southampton Place, Holborn",162,51.517606,-0.121328,ID_AND_NAME_MATCH
+163,"Sloane Avenue, Knightsbridge","sloane avenue, knightsbridge",True,True,"Sloane Avenue, Knightsbridge",163,51.493184,-0.167894,ID_AND_NAME_MATCH
+164,"Cleveland Gardens, Bayswater","cleveland gardens, bayswater",True,True,"Cleveland Gardens, Bayswater",164,51.515607,-0.183118,ID_AND_NAME_MATCH
+165,"Orsett Terrace, Bayswater","orsett terrace, bayswater",True,True,"Orsett Terrace, Bayswater",165,51.517932,-0.183716,ID_AND_NAME_MATCH
+166,"Seville Street, Knightsbridge","seville street, knightsbridge",True,True,"Seville Street, Knightsbridge",166,51.501855,-0.159237,ID_AND_NAME_MATCH
+167,"Eccleston Place, Victoria","eccleston place, victoria",True,True,"Eccleston Place, Victoria",167,51.49395,-0.147624,ID_AND_NAME_MATCH
+168,"Argyll Road, Kensington","argyll road, kensington",True,True,"Argyll Road, Kensington",168,51.500401,-0.195455,ID_AND_NAME_MATCH
+169,"Porchester Place, Paddington","porchester place, paddington",True,True,"Porchester Place, Paddington",169,51.514746,-0.165164,ID_AND_NAME_MATCH
+170,"Hardwick Street, Clerkenwell","hardwick street, clerkenwell",True,True,"Hardwick Street, Clerkenwell",170,51.527842,-0.108068,ID_AND_NAME_MATCH
+171,"Collingham Gardens, Earl's Court","collingham gardens, earl's court",True,True,"Collingham Gardens, Earl's Court",171,51.491615,-0.186753,ID_AND_NAME_MATCH
+172,"Sumner Place, South Kensington","sumner place, south kensington",True,True,"Sumner Place, South Kensington",172,51.491211,-0.173715,ID_AND_NAME_MATCH
+173,"Waterloo Road, South Bank","waterloo road, south bank",True,True,"Waterloo Road, South Bank",173,51.50486,-0.113001,ID_AND_NAME_MATCH
+174,"Strand, Strand","strand, strand",False,True,,857,51.512582,-0.115057,NAME_ONLY_MATCH
+175,"Appold Street, Liverpool Street","appold street, liverpool street",True,False,"Worship Street, Shoreditch",,,,ID_ONLY_REVIEW_REQUIRED
+176,"Gloucester Terrace, Bayswater","gloucester terrace, bayswater",True,True,"Gloucester Terrace, Bayswater",176,51.517919,-0.188098,ID_AND_NAME_MATCH
+177,"Ashley Place, Victoria","ashley place, victoria",True,True,"Ashley Place, Victoria",177,51.49616,-0.140947,ID_AND_NAME_MATCH
+178,"Warwick Square, Pimlico","warwick square, pimlico",True,True,"Warwick Square, Pimlico",178,51.489856,-0.141923,ID_AND_NAME_MATCH
+180,"North Audley Street, Mayfair","north audley street, mayfair",True,True,"North Audley Street, Mayfair",180,51.512911,-0.153645,ID_AND_NAME_MATCH
+181,"Belgrave Square, Belgravia","belgrave square, belgravia",True,True,"Belgrave Square, Belgravia",181,51.499412,-0.152317,ID_AND_NAME_MATCH
+182,"Bell Street , Marylebone","bell street, marylebone",True,True,"Bell Street , Marylebone",182,51.522029,-0.165842,ID_AND_NAME_MATCH
+183,"Riverlight North, Nine Elms","riverlight north, nine elms",True,True,"Riverlight North, Nine Elms",183,51.482362,-0.136123,ID_AND_NAME_MATCH
+184,"Portland Place, Marylebone","portland place, marylebone",True,True,"Portland Place, Marylebone",184,51.520715,-0.145211,ID_AND_NAME_MATCH
+185,"Alderney Street, Pimlico","alderney street, pimlico",True,True,"Alderney Street, Pimlico",185,51.488057,-0.140741,ID_AND_NAME_MATCH
+186,"South Wharf Road, Paddington","south wharf road, paddington",True,True,"South Wharf Road, Paddington",186,51.517335,-0.17581,ID_AND_NAME_MATCH
+187,"Queen's Gate (South), South Kensington","queen's gate (south), south kensington",True,True,"Queen's Gate (South), South Kensington",187,51.492479,-0.178433,ID_AND_NAME_MATCH
+188,"Nutford Place, Marylebone","nutford place, marylebone",True,True,"Nutford Place, Marylebone",188,51.516517,-0.164393,ID_AND_NAME_MATCH
+189,"Claremont Square, Angel","claremont square, angel",True,True,"Claremont Square, Angel",189,51.531666,-0.109914,ID_AND_NAME_MATCH
+190,"Rampayne Street, Pimlico","rampayne street, pimlico",True,True,"Rampayne Street, Pimlico",190,51.489975,-0.132845,ID_AND_NAME_MATCH
+191,"Hyde Park Corner, Hyde Park","hyde park corner, hyde park",True,True,"Hyde Park Corner, Hyde Park",191,51.503117,-0.15352,ID_AND_NAME_MATCH
+192,"Wardour Street, Soho","wardour street, soho",True,True,"Wardour Street, Soho",192,51.512515,-0.133201,ID_AND_NAME_MATCH
+193,"Bankside Mix, Bankside","bankside mix, bankside",True,True,"Bankside Mix, Bankside",193,51.505817,-0.100186,ID_AND_NAME_MATCH
+194,"Hop Exchange, The Borough","hop exchange, the borough",True,True,"Hop Exchange, The Borough",194,51.504627,-0.091773,ID_AND_NAME_MATCH
+195,"Milroy Walk, South Bank","milroy walk, south bank",True,True,"Milroy Walk, South Bank",195,51.507244,-0.106237,ID_AND_NAME_MATCH
+196,"Union Street, The Borough","union street, the borough",True,True,"Union Street, The Borough",196,51.503688,-0.098497,ID_AND_NAME_MATCH
+197,"Stamford Street, South Bank","stamford street, south bank",True,True,"Stamford Street, South Bank",197,51.505569,-0.111606,ID_AND_NAME_MATCH
+199,"Great Tower Street, Monument","great tower street, monument",True,True,"Great Tower Street, Monument",199,51.510484,-0.082989,ID_AND_NAME_MATCH
+200,"LMU Commercial Road, Whitechapel","lmu commercial road, whitechapel",True,True,"LMU Commercial Road, Whitechapel",200,51.514924,-0.066078,ID_AND_NAME_MATCH
+201,"Dorset Square, Marylebone","dorset square, marylebone",True,True,"Dorset Square, Marylebone",201,51.522596,-0.161113,ID_AND_NAME_MATCH
+202,"Leman Street, Aldgate","leman street, aldgate",True,True,"Leman Street, Aldgate",202,51.512363,-0.069542,ID_AND_NAME_MATCH
+203,"West Smithfield Rotunda, Farringdon","west smithfield rotunda, farringdon",True,True,"West Smithfield Rotunda, Farringdon",203,51.518218,-0.100791,ID_AND_NAME_MATCH
+204,"Margery Street, Clerkenwell","margery street, clerkenwell",True,True,"Margery Street, Clerkenwell",204,51.526599,-0.112432,ID_AND_NAME_MATCH
+206,"New Road 1 , Whitechapel","new road 1, whitechapel",True,True,"New Road 1 , Whitechapel",206,51.518154,-0.062697,ID_AND_NAME_MATCH
+207,"Grosvenor Crescent, Belgravia","grosvenor crescent, belgravia",True,True,"Grosvenor Crescent, Belgravia",207,51.501352,-0.153194,ID_AND_NAME_MATCH
+208,"Mallory Street, Marylebone","mallory street, marylebone",True,True,"Mallory Street, Marylebone",208,51.525051,-0.166304,ID_AND_NAME_MATCH
+209,"Denyer Street, Knightsbridge","denyer street, knightsbridge",True,True,"Denyer Street, Knightsbridge",209,51.493583,-0.165101,ID_AND_NAME_MATCH
+210,"Hinde Street, Marylebone","hinde street, marylebone",True,True,"Hinde Street, Marylebone",210,51.516814,-0.151926,ID_AND_NAME_MATCH
+211,"Cadogan Place, Knightsbridge","cadogan place, knightsbridge",True,True,"Cadogan Place, Knightsbridge",211,51.494645,-0.158105,ID_AND_NAME_MATCH
+212,"Campden Hill Road, Notting Hill","campden hill road, notting hill",True,True,"Campden Hill Road, Notting Hill",212,51.506584,-0.199004,ID_AND_NAME_MATCH
+213,"Wellington Arch, Hyde Park","wellington arch, hyde park",True,True,"Wellington Arch, Hyde Park",213,51.50274,-0.149569,ID_AND_NAME_MATCH
+214,"Endsleigh Gardens, Euston","endsleigh gardens, euston",True,True,"Endsleigh Gardens, Euston",214,51.526838,-0.130504,ID_AND_NAME_MATCH
+215,"Moorfields, Moorgate","moorfields, moorgate",True,True,"Moorfields, Moorgate",215,51.519069,-0.088285,ID_AND_NAME_MATCH
+216,"Old Brompton Road, South Kensington","old brompton road, south kensington",True,True,"Old Brompton Road, South Kensington",216,51.490945,-0.18119,ID_AND_NAME_MATCH
+217,"Wormwood Street, Liverpool Street","wormwood street, liverpool street",True,True,"Wormwood Street, Liverpool Street",217,51.516154,-0.082422,ID_AND_NAME_MATCH
+218,"St. Luke's Church, Chelsea","st. luke's church, chelsea",True,True,"St. Luke's Church, Chelsea",218,51.489716,-0.170194,ID_AND_NAME_MATCH
+219,"Bramham Gardens, Earl's Court","bramham gardens, earl's court",True,True,"Bramham Gardens, Earl's Court",219,51.490163,-0.190393,ID_AND_NAME_MATCH
+220,"Chelsea Green, Chelsea","chelsea green, chelsea",True,True,"Chelsea Green, Chelsea",220,51.490664,-0.166485,ID_AND_NAME_MATCH
+221,"Horseferry Road, Westminster","horseferry road, westminster",True,True,"Horseferry Road, Westminster",221,51.494816,-0.130458,ID_AND_NAME_MATCH
+222,"Knightsbridge, Hyde Park","knightsbridge, hyde park",True,True,"Knightsbridge, Hyde Park",222,51.502757,-0.155349,ID_AND_NAME_MATCH
+223,"Rodney Road , Walworth","rodney road, walworth",True,True,"Rodney Road , Walworth",223,51.491484,-0.09022,ID_AND_NAME_MATCH
+224,"Whiteley's, Bayswater","whiteley's, bayswater",True,False,"Queensway, Kensington Gardens",,,,ID_ONLY_REVIEW_REQUIRED
+225,"Notting Hill Gate Station, Notting Hill","notting hill gate station, notting hill",False,False,,,,,NO_MATCH_REVIEW_REQUIRED
+226,"Charles II Street, West End","charles ii street, west end",True,True,"Charles II Street, West End",226,51.508446,-0.131961,ID_AND_NAME_MATCH
+227,"Great Percy Street, Clerkenwell","great percy street, clerkenwell",True,True,"Great Percy Street, Clerkenwell",227,51.528915,-0.11548,ID_AND_NAME_MATCH
+228,"St. James's Square, St. James's","st. james's square, st. james's",True,True,"St. James's Square, St. James's",228,51.507424,-0.134621,ID_AND_NAME_MATCH
+229,"Whitehall Place, Strand","whitehall place, strand",True,True,"Whitehall Place, Strand",229,51.506543,-0.123179,ID_AND_NAME_MATCH
+230,"Poured Lines, Bankside","poured lines, bankside",True,True,"Poured Lines, Bankside",230,51.506692,-0.103137,ID_AND_NAME_MATCH
+231,"Queen's Gate (Central), South Kensington","queen's gate (central), south kensington",True,True,"Queen's Gate (Central), South Kensington",231,51.493967,-0.178732,ID_AND_NAME_MATCH
+232,"Carey Street, Holborn","carey street, holborn",True,True,"Carey Street, Holborn",232,51.51501,-0.112753,ID_AND_NAME_MATCH
+233,"Pall Mall East, West End","pall mall east, west end",True,True,"Pall Mall East, West End",233,51.50777,-0.130699,ID_AND_NAME_MATCH
+234,"Liverpool Road (N1 Centre), Angel","liverpool road (n1 centre), angel",True,True,"Liverpool Road (N1 Centre), Angel",234,51.534504,-0.106992,ID_AND_NAME_MATCH
+235,"Kennington Road  , Vauxhall","kennington road, vauxhall",True,True,"Kennington Road, Vauxhall",235,51.495718,-0.110889,ID_AND_NAME_MATCH
+236,"Fashion Street, Whitechapel","fashion street, whitechapel",True,True,"Fashion Street, Whitechapel",236,51.51838,-0.073438,ID_AND_NAME_MATCH
+237,"Dock Street, Wapping","dock street, wapping",True,True,"Dock Street, Wapping",237,51.509786,-0.068161,ID_AND_NAME_MATCH
+238,"Frampton Street, Paddington","frampton street, paddington",True,True,"Frampton Street, Paddington",238,51.523353,-0.175116,ID_AND_NAME_MATCH
+239,"Warren Street Station, Euston","warren street station, euston",True,True,"Warren Street Station, Euston",239,51.524438,-0.138019,ID_AND_NAME_MATCH
+240,"Colombo Street, Southwark","colombo street, southwark",True,True,"Colombo Street, Southwark",240,51.505459,-0.105692,ID_AND_NAME_MATCH
+242,"Beaumont Street, Marylebone","beaumont street, marylebone",True,True,"Beaumont Street, Marylebone",242,51.522008,-0.151359,ID_AND_NAME_MATCH
+243,"Gloucester Street, Pimlico","gloucester street, pimlico",True,True,"Gloucester Street, Pimlico",243,51.490962,-0.139625,ID_AND_NAME_MATCH
+244,"Earnshaw Street , Covent Garden","earnshaw street, covent garden",True,False,"Bucknall Street, Covent Garden",,,,ID_ONLY_REVIEW_REQUIRED
+245,"Grosvenor Road, Pimlico","grosvenor road, pimlico",True,True,"Grosvenor Road, Pimlico",245,51.485357,-0.142207,ID_AND_NAME_MATCH
+246,"Berry Street, Clerkenwell","berry street, clerkenwell",True,True,"Berry Street, Clerkenwell",246,51.522853,-0.099994,ID_AND_NAME_MATCH
+247,"St. John's Wood Church, The Regent's Park","st. john's wood church, the regent's park",True,True,"St. John's Wood Church, The Regent's Park",247,51.530529,-0.167515,ID_AND_NAME_MATCH
+248,"Triangle Car Park, Hyde Park","triangle car park, hyde park",True,True,"Triangle Car Park, Hyde Park",248,51.506451,-0.170279,ID_AND_NAME_MATCH
+249,"Harper Road, The Borough","harper road, the borough",True,True,"Harper Road, The Borough",249,51.498597,-0.096191,ID_AND_NAME_MATCH
+250,"Royal Avenue 1, Chelsea","royal avenue 1, chelsea",True,True,"Royal Avenue 1, Chelsea",250,51.489932,-0.162727,ID_AND_NAME_MATCH
+251,"Brushfield Street, Liverpool Street","brushfield street, liverpool street",True,True,"Brushfield Street, Liverpool Street",251,51.518908,-0.079249,ID_AND_NAME_MATCH
+252,"Jubilee Gardens, South Bank","jubilee gardens, south bank",False,False,,,,,NO_MATCH_REVIEW_REQUIRED
+253,"Shoreditch Park, Hoxton","shoreditch park, hoxton",True,True,"Shoreditch Park, Hoxton",253,51.534042,-0.086379,ID_AND_NAME_MATCH
+254,"Chadwell Street, Angel","chadwell street, angel",True,True,"Chadwell Street, Angel",254,51.530515,-0.106408,ID_AND_NAME_MATCH
+255,"Clifton Road, Maida Vale","clifton road, maida vale",True,True,"Clifton Road, Maida Vale",255,51.525575,-0.179592,ID_AND_NAME_MATCH
+256,"Houghton Street, Strand","houghton street, strand",True,True,"Houghton Street, Strand",256,51.51362,-0.116764,ID_AND_NAME_MATCH
+257,"Westminster University, Marylebone","westminster university, marylebone",True,True,"Westminster University, Marylebone",257,51.522481,-0.154907,ID_AND_NAME_MATCH
+258,"Kensington Gore, Knightsbridge","kensington gore, knightsbridge",True,True,"Kensington Gore, Knightsbridge",258,51.501432,-0.178656,ID_AND_NAME_MATCH
+260,"Broadwick Street, Soho","broadwick street, soho",True,True,"Broadwick Street, Soho",260,51.513684,-0.13558,ID_AND_NAME_MATCH
+261,"Princes Square, Bayswater","princes square, bayswater",True,True,"Princes Square, Bayswater",261,51.513489,-0.191351,ID_AND_NAME_MATCH
+262,"LSBU (Borough Road), Elephant & Castle","lsbu (borough road), elephant & castle",True,True,"LSBU (Borough Road), Elephant & Castle",262,51.498744,-0.103132,ID_AND_NAME_MATCH
+263,"St. Mary Axe, Aldgate","st. mary axe, aldgate",True,True,"St. Mary Axe, Aldgate",263,51.514225,-0.08066,ID_AND_NAME_MATCH
+264,"Tysoe Street, Clerkenwell","tysoe street, clerkenwell",True,True,"Tysoe Street, Clerkenwell",264,51.526443,-0.109256,ID_AND_NAME_MATCH
+265,"Southwick Street, Paddington","southwick street, paddington",True,True,"Southwick Street, Paddington",265,51.515953,-0.169249,ID_AND_NAME_MATCH
+266,"Queen's Gate (North), Kensington","queen's gate (north), kensington",True,True,"Queen's Gate (North), Kensington",266,51.501026,-0.180246,ID_AND_NAME_MATCH
+267,"Regency Street, Westminster","regency street, westminster",True,True,"Regency Street, Westminster",267,51.49206,-0.132224,ID_AND_NAME_MATCH
+268,"Belgrave Road, Victoria","belgrave road, victoria",True,True,"Belgrave Road, Victoria",268,51.493204,-0.144132,ID_AND_NAME_MATCH
+269,"Empire Square, The Borough","empire square, the borough",True,True,"Empire Square, The Borough",269,51.500823,-0.08974,ID_AND_NAME_MATCH
+270,"Kennington Lane Rail Bridge, Vauxhall","kennington lane rail bridge, vauxhall",False,True,,868,51.486343,-0.122492,NAME_ONLY_MATCH
+271,"London Zoo,  The Regent's Park","london zoo, the regent's park",True,True,"London Zoo,  The Regent's Park",271,51.535836,-0.156285,ID_AND_NAME_MATCH
+272,"Baylis Road, Waterloo","baylis road, waterloo",True,True,"Baylis Road, Waterloo",272,51.501444,-0.110699,ID_AND_NAME_MATCH
+273,"Belvedere Road 1, South Bank","belvedere road 1, south bank",True,True,"Belvedere Road 1, South Bank",273,51.506133,-0.114686,ID_AND_NAME_MATCH
+274,"Warwick Road, Olympia","warwick road, olympia",True,True,"Warwick Road, Olympia",274,51.496712,-0.205284,ID_AND_NAME_MATCH
+275,"Barbican Centre, Barbican","barbican centre, barbican",True,True,"Barbican Centre, Barbican",275,51.520044,-0.092176,ID_AND_NAME_MATCH
+276,"Lower Thames Street, Monument","lower thames street, monument",True,True,"Lower Thames Street, Monument",276,51.509301,-0.084985,ID_AND_NAME_MATCH
+277,"Kensington Church Street, Kensington","kensington church street, kensington",True,True,"Kensington Church Street, Kensington",277,51.503157,-0.191496,ID_AND_NAME_MATCH
+278,"Tooley Street, Bermondsey","tooley street, bermondsey",True,True,"Tooley Street, Bermondsey",278,51.503493,-0.07962,ID_AND_NAME_MATCH
+279,"North Wharf Road, Paddington","north wharf road, paddington",True,True,"North Wharf Road, Paddington",279,51.518623,-0.176603,ID_AND_NAME_MATCH
+280,"Royal Avenue 2, Chelsea","royal avenue 2, chelsea",True,True,"Royal Avenue 2, Chelsea",280,51.490083,-0.162418,ID_AND_NAME_MATCH
+281,"Smith Square, Westminster","smith square, westminster",True,True,"Smith Square, Westminster",281,51.495805,-0.127575,ID_AND_NAME_MATCH
+282,"Royal London Hospital, Whitechapel","royal london hospital, whitechapel",True,True,"Royal London Hospital, Whitechapel",282,51.518675,-0.06111,ID_AND_NAME_MATCH
+283,"Kingsway, Covent Garden","kingsway, covent garden",True,True,"Kingsway, Covent Garden",283,51.514409,-0.118478,ID_AND_NAME_MATCH
+284,"Lambeth North Station, Waterloo","lambeth north station, waterloo",True,True,"Lambeth North Station, Waterloo",284,51.49914,-0.112031,ID_AND_NAME_MATCH
+286,"St. John's Wood Road, St. John's Wood","st. john's wood road, st. john's wood",True,True,"St. John's Wood Road, St. John's Wood",286,51.527294,-0.174653,ID_AND_NAME_MATCH
+287,"Bedford Way, Bloomsbury","bedford way, bloomsbury",True,True,"Bedford Way, Bloomsbury",287,51.523673,-0.128377,ID_AND_NAME_MATCH
+288,"Elizabeth Bridge, Victoria","elizabeth bridge, victoria",True,True,"Elizabeth Bridge, Victoria",288,51.492369,-0.147478,ID_AND_NAME_MATCH
+289,"South Audley Street, Mayfair","south audley street, mayfair",True,True,"South Audley Street, Mayfair",289,51.50923,-0.151289,ID_AND_NAME_MATCH
+290,"Winsland Street, Paddington","winsland street, paddington",True,False,"St Mary's Hospital, Paddington",,,,ID_ONLY_REVIEW_REQUIRED
+291,"Claverton Street, Pimlico","claverton street, pimlico",True,True,"Claverton Street, Pimlico",291,51.484839,-0.138089,ID_AND_NAME_MATCH
+292,"Montpelier Street, Knightsbridge","montpelier street, knightsbridge",True,True,"Montpelier Street, Knightsbridge",292,51.498884,-0.165471,ID_AND_NAME_MATCH
+293,"Kensington Olympia Station, Olympia","kensington olympia station, olympia",True,True,"Kensington Olympia Station, Olympia",293,51.498157,-0.209494,ID_AND_NAME_MATCH
+294,"St. George's Square, Pimlico","st. george's square, pimlico",True,True,"St. George's Square, Pimlico",294,51.488226,-0.135635,ID_AND_NAME_MATCH
+295,"Swan Street, The Borough","swan street, the borough",True,True,"Swan Street, The Borough",295,51.500296,-0.092762,ID_AND_NAME_MATCH
+296,"Knaresborough Place, Earl's Court","knaresborough place, earl's court",True,True,"Knaresborough Place, Earl's Court",296,51.493631,-0.190603,ID_AND_NAME_MATCH
+297,"Geraldine Street, Elephant & Castle","geraldine street, elephant & castle",True,True,"Geraldine Street, Elephant & Castle",297,51.496127,-0.106,ID_AND_NAME_MATCH
+298,"Curlew Street, Shad Thames","curlew street, shad thames",True,True,"Curlew Street, Shad Thames",298,51.502279,-0.074189,ID_AND_NAME_MATCH
+299,"Vincent Square, Westminster","vincent square, westminster",True,True,"Vincent Square, Westminster",299,51.493985,-0.136928,ID_AND_NAME_MATCH
+301,"Marylebone Lane, Marylebone","marylebone lane, marylebone",False,False,,,,,NO_MATCH_REVIEW_REQUIRED
+302,"Putney Pier, Wandsworth","putney pier, wandsworth",True,True,"Putney Pier, Wandsworth",302,51.466907,-0.216573,ID_AND_NAME_MATCH
+303,"Albert Gate, Hyde Park","albert gate, hyde park",True,True,"Albert Gate, Hyde Park",303,51.502953,-0.158456,ID_AND_NAME_MATCH
+305,"Kennington Lane Tesco, Vauxhall","kennington lane tesco, vauxhall",False,False,,,,,NO_MATCH_REVIEW_REQUIRED
+306,"Rathbone Street, Fitzrovia","rathbone street, fitzrovia",True,True,"Rathbone Street, Fitzrovia",306,51.518162,-0.135025,ID_AND_NAME_MATCH
+307,"Black Lion Gate, Kensington Gardens","black lion gate, kensington gardens",True,True,"Black Lion Gate, Kensington Gardens",307,51.509908,-0.187842,ID_AND_NAME_MATCH
+308,"Long Lane , Bermondsey","long lane, bermondsey",True,True,"Long Lane , Bermondsey",308,51.499075,-0.085666,ID_AND_NAME_MATCH
+309,"Embankment (Savoy), Strand","embankment (savoy), strand",True,True,"Embankment (Savoy), Strand",309,51.509631,-0.119047,ID_AND_NAME_MATCH
+310,"Black Prince Road, Vauxhall","black prince road, vauxhall",True,True,"Black Prince Road, Vauxhall",310,51.490867,-0.116911,ID_AND_NAME_MATCH
+312,"Grove End Road, St. John's Wood","grove end road, st. john's wood",True,True,"Grove End Road, St. John's Wood",312,51.530889,-0.17677,ID_AND_NAME_MATCH
+313,"Wells Street, Fitzrovia","wells street, fitzrovia",True,True,"Wells Street, Fitzrovia",313,51.517344,-0.138072,ID_AND_NAME_MATCH
+314,"Tyers Gate, Bermondsey","tyers gate, bermondsey",True,True,"Tyers Gate, Bermondsey",314,51.500889,-0.083159,ID_AND_NAME_MATCH
+315,"The Tennis Courts, The Regent's Park","the tennis courts, the regent's park",True,True,"The Tennis Courts, The Regent's Park",315,51.525367,-0.153463,ID_AND_NAME_MATCH
+317,"Dickens Square, Borough","dickens square, borough",True,True,"Dickens Square, Borough",317,51.496791,-0.093913,ID_AND_NAME_MATCH
+318,"Sackville Street, Mayfair","sackville street, mayfair",True,True,"Sackville Street, Mayfair",318,51.510048,-0.138846,ID_AND_NAME_MATCH
+319,"Baldwin Street, St. Luke's","baldwin street, st. luke's",True,True,"Baldwin Street, St. Luke's",319,51.527025,-0.088542,ID_AND_NAME_MATCH
+320,"Queen Mother Sports Centre, Victoria","queen mother sports centre, victoria",True,True,"Queen Mother Sports Centre, Victoria",320,51.493573,-0.139956,ID_AND_NAME_MATCH
+321,"Bermondsey Street, Bermondsey","bermondsey street, bermondsey",True,True,"Bermondsey Street, Bermondsey",321,51.497855,-0.081608,ID_AND_NAME_MATCH
+322,"Palissy Street, Shoreditch","palissy street, shoreditch",True,True,"Palissy Street, Shoreditch",322,51.526293,-0.073955,ID_AND_NAME_MATCH
+323,"Clifton Street, Shoreditch","clifton street, shoreditch",True,True,"Clifton Street, Shoreditch",323,51.523196,-0.083067,ID_AND_NAME_MATCH
+324,"Ontario Street, Elephant & Castle","ontario street, elephant & castle",True,True,"Ontario Street, Elephant & Castle",324,51.49652,-0.101384,ID_AND_NAME_MATCH
+325,"St. Martin's Street, West End","st. martin's street, west end",False,False,,,,,NO_MATCH_REVIEW_REQUIRED
+326,"Graham Street, Angel","graham street, angel",True,True,"Graham Street, Angel",326,51.532661,-0.099981,ID_AND_NAME_MATCH
+327,"New North Road 1, Hoxton","new north road 1, hoxton",True,False,"Westbourne Green, Westbourne",,,,ID_ONLY_REVIEW_REQUIRED
+328,"New North Road 2, Hoxton","new north road 2, hoxton",True,True,"New North Road 2, Hoxton",328,51.53114,-0.086016,ID_AND_NAME_MATCH
+329,"Prince Albert Road, The Regent's Park","prince albert road, the regent's park",True,True,"Prince Albert Road, The Regent's Park",329,51.535892,-0.160854,ID_AND_NAME_MATCH
+330,"Eastbourne Mews, Paddington","eastbourne mews, paddington",True,True,"Eastbourne Mews, Paddington",330,51.516417,-0.179135,ID_AND_NAME_MATCH
+331,"Bunhill Row, Moorgate","bunhill row, moorgate",True,True,"Bunhill Row, Moorgate",331,51.520858,-0.089887,ID_AND_NAME_MATCH
+332,"Nevern Place, Earl's Court","nevern place, earl's court",True,True,"Nevern Place, Earl's Court",332,51.493343,-0.194757,ID_AND_NAME_MATCH
+333,"Palace Gardens Terrace, Notting Hill","palace gardens terrace, notting hill",True,True,"Palace Gardens Terrace, Notting Hill",333,51.508605,-0.193764,ID_AND_NAME_MATCH
+334,"Concert Hall Approach 1, South Bank","concert hall approach 1, south bank",True,False,"Agar Grove, Camden Town",,,,ID_ONLY_REVIEW_REQUIRED
+335,"Tavistock Street, Covent Garden","tavistock street, covent garden",True,True,"Tavistock Street, Covent Garden",335,51.511968,-0.120718,ID_AND_NAME_MATCH
+336,"Concert Hall Approach 2, South Bank","concert hall approach 2, south bank",True,False,"Concert Hall Approach, South Bank",,,,ID_ONLY_REVIEW_REQUIRED
+337,"Pembridge Villas, Notting Hill","pembridge villas, notting hill",True,True,"Pembridge Villas, Notting Hill",337,51.511084,-0.197524,ID_AND_NAME_MATCH
+338,"Wellington Street , Strand","wellington street, strand",True,True,"Wellington Street , Strand",338,51.511756,-0.119643,ID_AND_NAME_MATCH
+339,"Risinghill Street, Angel","risinghill street, angel",False,True,,872,51.533319,-0.111781,NAME_ONLY_MATCH
+340,"Bank of England Museum, Bank","bank of england museum, bank",True,True,"Bank of England Museum, Bank",340,51.514441,-0.087587,ID_AND_NAME_MATCH
+341,"Craven Street, Strand","craven street, strand",True,True,"Craven Street, Strand",341,51.508103,-0.126021,ID_AND_NAME_MATCH
+343,"London Zoo Car Park, The Regent's Park","london zoo car park, the regent's park",False,True,,887,51.536922,-0.150181,NAME_ONLY_MATCH
+344,"Goswell Road (City Uni), Finsbury","goswell road (city uni), finsbury",True,True,"Goswell Road (City Uni), Finsbury",344,51.528246,-0.101026,ID_AND_NAME_MATCH
+345,"Flood Street, Chelsea","flood street, chelsea",True,True,"Flood Street, Chelsea",345,51.488023,-0.166878,ID_AND_NAME_MATCH
+347,"Lower Marsh, Waterloo","lower marsh, waterloo",False,True,,870,51.500139,-0.113935,NAME_ONLY_MATCH
+348,"Grosvenor Square, Mayfair","grosvenor square, mayfair",True,True,"Grosvenor Square, Mayfair",348,51.51217,-0.150481,ID_AND_NAME_MATCH
+349,"St. George Street, Mayfair","st. george street, mayfair",True,True,"St. George Street, Mayfair",349,51.51196,-0.142783,ID_AND_NAME_MATCH
+350,"Queen's Gate, Kensington Gardens","queen's gate, kensington gardens",True,True,"Queen's Gate, Kensington Gardens",350,51.501715,-0.179854,ID_AND_NAME_MATCH
+351,"Macclesfield Rd, St Lukes","macclesfield rd, st lukes",True,True,"Macclesfield Rd, St Lukes",351,51.529423,-0.097122,ID_AND_NAME_MATCH
+352,"Vauxhall Street, Vauxhall","vauxhall street, vauxhall",True,True,"Vauxhall Street, Vauxhall",352,51.486965,-0.116625,ID_AND_NAME_MATCH
+353,"Greycoat Street , Westminster","greycoat street, westminster",True,True,"Greycoat Street , Westminster",353,51.494591,-0.134234,ID_AND_NAME_MATCH
+354,"Northumberland Avenue, Strand","northumberland avenue, strand",True,True,"Northumberland Avenue, Strand",354,51.506767,-0.123702,ID_AND_NAME_MATCH
+355,"Oval Way, Vauxhall","oval way, vauxhall",True,False,"Clapham Common Station, Clapham Common",,,,ID_ONLY_REVIEW_REQUIRED
+356,"South Kensington Station, South Kensington","south kensington station, south kensington",True,True,"South Kensington Station, South Kensington",356,51.494412,-0.173881,ID_AND_NAME_MATCH
+357,"Howland Street, Fitzrovia","howland street, fitzrovia",True,True,"Howland Street, Fitzrovia",357,51.520994,-0.139016,ID_AND_NAME_MATCH
+358,"High Holborn , Covent Garden","high holborn, covent garden",True,True,"High Holborn , Covent Garden",358,51.516398,-0.124257,ID_AND_NAME_MATCH
+359,"Butler Place, Westminster","butler place, westminster",True,True,"Butler Place, Westminster",359,51.497829,-0.13544,ID_AND_NAME_MATCH
+360,"Howick Place, Westminster","howick place, westminster",True,True,"Howick Place, Westminster",360,51.496753,-0.138733,ID_AND_NAME_MATCH
+361,"Waterloo Station 2, Waterloo","waterloo station 2, waterloo",True,True,"Waterloo Station 2, Waterloo",361,51.503919,-0.113426,ID_AND_NAME_MATCH
+362,"Royal College Street, Camden Town","royal college street, camden town",True,True,"Royal College Street, Camden Town",362,51.536264,-0.133952,ID_AND_NAME_MATCH
+363,"Lord's, St. John's Wood","lord's, st. john's wood",True,True,"Lord's, St. John's Wood",363,51.529121,-0.171185,ID_AND_NAME_MATCH
+364,"Alfred Place, Bloomsbury","alfred place, bloomsbury",True,False,"Store Street, Bloomsbury",,,,ID_ONLY_REVIEW_REQUIRED
+365,"City Road, Angel","city road, angel",True,True,"City Road, Angel",365,51.530344,-0.100168,ID_AND_NAME_MATCH
+366,"Millennium Hotel, Mayfair","millennium hotel, mayfair",True,True,"Millennium Hotel, Mayfair",366,51.510919,-0.151126,ID_AND_NAME_MATCH
+367,"Harrowby Street, Marylebone","harrowby street, marylebone",True,True,"Harrowby Street, Marylebone",367,51.517372,-0.164207,ID_AND_NAME_MATCH
+368,"Harriet Street, Knightsbridge","harriet street, knightsbridge",True,False,"Lowndes Square, Knightsbridge",,,,ID_ONLY_REVIEW_REQUIRED
+370,"Paddington Green, Paddington","paddington green, paddington",True,True,"Paddington Green, Paddington",370,51.520205,-0.174593,ID_AND_NAME_MATCH
+371,"King Edward Walk, Waterloo","king edward walk, waterloo",True,False,"Brockwell Lido, Brixton",,,,ID_ONLY_REVIEW_REQUIRED
+372,"Sardinia Street, Holborn","sardinia street, holborn",True,True,"Sardinia Street, Holborn",372,51.515208,-0.117863,ID_AND_NAME_MATCH
+373,"Prince Consort Road, Knightsbridge","prince consort road, knightsbridge",True,True,"Prince Consort Road, Knightsbridge",373,51.499806,-0.176415,ID_AND_NAME_MATCH
+374,"Waterloo Station 1, Waterloo","waterloo station 1, waterloo",True,True,"Waterloo Station 1, Waterloo",374,51.504027,-0.113864,ID_AND_NAME_MATCH
+375,"Kensington Town Hall, Kensington","kensington town hall, kensington",True,True,"Kensington Town Hall, Kensington",375,51.501945,-0.194392,ID_AND_NAME_MATCH
+376,"Millbank Tower, Pimlico","millbank tower, pimlico",True,True,"Millbank Tower, Pimlico",376,51.491884,-0.125674,ID_AND_NAME_MATCH
+377,"Waterloo Bridge, South Bank","waterloo bridge, south bank",True,True,"Waterloo Bridge, South Bank",377,51.505354,-0.113656,ID_AND_NAME_MATCH
+378,"Natural History Museum, South Kensington","natural history museum, south kensington",True,True,"Natural History Museum, South Kensington",378,51.495592,-0.179077,ID_AND_NAME_MATCH
+379,"Turquoise Island, Notting Hill","turquoise island, notting hill",True,True,"Turquoise Island, Notting Hill",379,51.514311,-0.200838,ID_AND_NAME_MATCH
+380,"Stanhope Gate, Mayfair","stanhope gate, mayfair",True,True,"Stanhope Gate, Mayfair",380,51.506864,-0.150666,ID_AND_NAME_MATCH
+381,"Charlotte Street, Fitzrovia","charlotte street, fitzrovia",False,False,,,,,NO_MATCH_REVIEW_REQUIRED
+382,"Farm Street, Mayfair","farm street, mayfair",True,True,"Farm Street, Mayfair",382,51.509351,-0.147449,ID_AND_NAME_MATCH
+383,"Frith Street, Soho","frith street, soho",True,True,"Frith Street, Soho",383,51.513103,-0.131213,ID_AND_NAME_MATCH
+384,"Marloes Road, Kensington","marloes road, kensington",True,True,"Marloes Road, Kensington",384,51.496481,-0.192404,ID_AND_NAME_MATCH
+387,"Fire Brigade Pier, Vauxhall","fire brigade pier, vauxhall",True,True,"Fire Brigade Pier, Vauxhall",387,51.493699,-0.121394,ID_AND_NAME_MATCH
+388,"Southampton Street, Strand","southampton street, strand",True,True,"Southampton Street, Strand",388,51.510701,-0.121723,ID_AND_NAME_MATCH
+389,"Upper Grosvenor Street, Mayfair","upper grosvenor street, mayfair",True,True,"Upper Grosvenor Street, Mayfair",389,51.51013,-0.155757,ID_AND_NAME_MATCH
+390,"Buxton Street 1, Shoreditch","buxton street 1, shoreditch",True,True,"Buxton Street 1, Shoreditch",390,51.521776,-0.068856,ID_AND_NAME_MATCH
+392,"Imperial College, Knightsbridge","imperial college, knightsbridge",True,True,"Imperial College, Knightsbridge",392,51.499428,-0.179702,ID_AND_NAME_MATCH
+393,"Snow Hill, Farringdon","snow hill, farringdon",True,True,"Snow Hill, Farringdon",393,51.517334,-0.103604,ID_AND_NAME_MATCH
+394,"Aberdeen Place, St. John's Wood","aberdeen place, st. john's wood",True,True,"Aberdeen Place, St. John's Wood",394,51.524826,-0.176268,ID_AND_NAME_MATCH
+395,"Cadogan Gardens, Chelsea","cadogan gardens, chelsea",True,True,"Cadogan Gardens, Chelsea",395,51.492462,-0.159919,ID_AND_NAME_MATCH
+396,"Shouldham Street, Marylebone","shouldham street, marylebone",True,True,"Shouldham Street, Marylebone",396,51.51809,-0.163609,ID_AND_NAME_MATCH
+397,"Devonshire Terrace, Bayswater","devonshire terrace, bayswater",True,True,"Devonshire Terrace, Bayswater",397,51.51348,-0.17977,ID_AND_NAME_MATCH
+398,"Holland Park, Kensington","holland park, kensington",True,True,"Holland Park, Kensington",398,51.502319,-0.200742,ID_AND_NAME_MATCH
+399,"Brick Lane Market, Shoreditch","brick lane market, shoreditch",True,True,"Brick Lane Market, Shoreditch",399,51.522617,-0.071653,ID_AND_NAME_MATCH
+400,"George Street, Marylebone","george street, marylebone",True,True,"George Street, Marylebone",400,51.517703,-0.154106,ID_AND_NAME_MATCH
+401,"Columbia Road, Shoreditch","columbia road, shoreditch",True,True,"Columbia Road, Shoreditch",401,51.528187,-0.075375,ID_AND_NAME_MATCH
+402,"Penfold Street, Marylebone","penfold street, marylebone",True,True,"Penfold Street, Marylebone",402,51.522892,-0.171681,ID_AND_NAME_MATCH
+403,"George Place Mews, Marylebone","george place mews, marylebone",True,True,"George Place Mews, Marylebone",403,51.516892,-0.158249,ID_AND_NAME_MATCH
+404,"Palace Gate, Kensington Gardens","palace gate, kensington gardens",True,True,"Palace Gate, Kensington Gardens",404,51.502042,-0.1844,ID_AND_NAME_MATCH
+405,"Gloucester Road Station, South Kensington","gloucester road station, south kensington",True,True,"Gloucester Road Station, South Kensington",405,51.494185,-0.18267,ID_AND_NAME_MATCH
+408,"Paddington Green Police Station, Paddington","paddington green police station, paddington",True,False,"Sun Street, Liverpool Street",,,,ID_ONLY_REVIEW_REQUIRED
+409,"Strata, Elephant & Castle","strata, elephant & castle",True,True,"Strata, Elephant & Castle",409,51.493146,-0.099828,ID_AND_NAME_MATCH
+410,"Edgware Road Station, Marylebone","edgware road station, marylebone",True,False,"Orchard Place, Blackwall Tunnel",,,,ID_ONLY_REVIEW_REQUIRED
+411,"Walworth Road, Elephant & Castle","walworth road, elephant & castle",True,False,"Rotherhithe Roundabout, Rotherhithe",,,,ID_ONLY_REVIEW_REQUIRED
+412,"Cleaver Street, Kennington","cleaver street, kennington",True,True,"Cleaver Street, Kennington",412,51.488105,-0.110121,ID_AND_NAME_MATCH
+419,"Chelsea Bridge, Pimlico","chelsea bridge, pimlico",True,True,"Chelsea Bridge, Pimlico",419,51.485821,-0.149004,ID_AND_NAME_MATCH
+420,"Southwark Station 1, Southwark","southwark station 1, southwark",False,False,,,,,NO_MATCH_REVIEW_REQUIRED
+421,"Southwark Station 2, Southwark","southwark station 2, southwark",False,False,,,,,NO_MATCH_REVIEW_REQUIRED
+423,"Eaton Square (South), Belgravia","eaton square (south), belgravia",True,True,"Eaton Square (South), Belgravia",423,51.494561,-0.153933,ID_AND_NAME_MATCH
+424,"Ebury Bridge, Pimlico","ebury bridge, pimlico",True,True,"Ebury Bridge, Pimlico",424,51.490491,-0.149186,ID_AND_NAME_MATCH
+425,"Harrington Square 2, Camden Town","harrington square 2, camden town",False,False,,,,,NO_MATCH_REVIEW_REQUIRED
+426,"Vincent Street, Pimlico","vincent street, pimlico",True,True,"Vincent Street, Pimlico",426,51.493072,-0.129925,ID_AND_NAME_MATCH
+427,"Cheapside, Bank","cheapside, bank",True,True,"Cheapside, Bank",427,51.51397,-0.09294,ID_AND_NAME_MATCH
+428,"Exhibition Road, Knightsbridge","exhibition road, knightsbridge",True,True,"Exhibition Road, Knightsbridge",428,51.499917,-0.174554,ID_AND_NAME_MATCH
+430,"South Parade, Chelsea","south parade, chelsea",True,True,"South Parade, Chelsea",430,51.48902,-0.17524,ID_AND_NAME_MATCH
+431,"Crinan Street, King's Cross","crinan street, king's cross",True,True,"Crinan Street, King's Cross",431,51.534474,-0.122203,ID_AND_NAME_MATCH
+432,"Exhibition Road Museums, South Kensington","exhibition road museums, south kensington",True,False,"Exhibition Road Museums 1, South Kensington",,,,ID_ONLY_REVIEW_REQUIRED
+433,"Wren Street, Holborn","wren street, holborn",True,True,"Wren Street, Holborn",433,51.524564,-0.116279,ID_AND_NAME_MATCH
+435,"Kennington Station, Kennington","kennington station, kennington",True,True,"Kennington Station, Kennington",435,51.488852,-0.105593,ID_AND_NAME_MATCH
+436,"Red Lion Street, Holborn","red lion street, holborn",True,True,"Red Lion Street, Holborn",436,51.51824,-0.11655,ID_AND_NAME_MATCH
+437,"Vauxhall Walk, Vauxhall","vauxhall walk, vauxhall",True,True,"Vauxhall Walk, Vauxhall",437,51.488124,-0.120903,ID_AND_NAME_MATCH
+439,"Killick Street, King's Cross","killick street, king's cross",True,True,"Killick Street, King's Cross",439,51.5338,-0.118677,ID_AND_NAME_MATCH
+440,"Kennington Oval, Oval","kennington oval, oval",True,True,"Kennington Oval, Oval",440,51.483145,-0.113134,ID_AND_NAME_MATCH
+441,"Sail Street, Vauxhall","sail street, vauxhall",True,True,"Sail Street, Vauxhall",441,51.495656,-0.114605,ID_AND_NAME_MATCH
+442,"Walmer Road, Avondale","walmer road, avondale",True,True,"Walmer Road, Avondale",442,51.510101,-0.211358,ID_AND_NAME_MATCH
+443,"Philpot Street, Whitechapel","philpot street, whitechapel",True,True,"Philpot Street, Whitechapel",443,51.515256,-0.058641,ID_AND_NAME_MATCH
+444,"Bethnal Green Garden, Bethnal Green","bethnal green garden, bethnal green",True,True,"Bethnal Green Garden, Bethnal Green",444,51.52568,-0.055312,ID_AND_NAME_MATCH
+445,"Cheshire Street, Bethnal Green","cheshire street, bethnal green",True,True,"Cheshire Street, Bethnal Green",445,51.52388,-0.065076,ID_AND_NAME_MATCH
+446,"York Hall, Bethnal Green","york hall, bethnal green",True,True,"York Hall, Bethnal Green",446,51.528936,-0.055894,ID_AND_NAME_MATCH
+447,"Jubilee Crescent, Cubitt Town","jubilee crescent, cubitt town",True,True,"Jubilee Crescent, Cubitt Town",447,51.493381,-0.007542,ID_AND_NAME_MATCH
+448,"Fisherman's Walk West, Canary Wharf","fisherman's walk west, canary wharf",True,True,"Fisherman's Walk West, Canary Wharf",448,51.50623,-0.02296,ID_AND_NAME_MATCH
+449,"Shadwell Station, Shadwell","shadwell station, shadwell",True,True,"Shadwell Station, Shadwell",449,51.511088,-0.057159,ID_AND_NAME_MATCH
+450,"Jubilee Street, Stepney","jubilee street, stepney",True,True,"Jubilee Street, Stepney",450,51.515975,-0.053177,ID_AND_NAME_MATCH
+451,"Hermitage Court, Wapping","hermitage court, wapping",True,True,"Hermitage Court, Wapping",451,51.504719,-0.063531,ID_AND_NAME_MATCH
+452,"St. Katharine's Way, Tower","st. katharine's way, tower",True,True,"St. Katharine's Way, Tower",452,51.505697,-0.070542,ID_AND_NAME_MATCH
+453,"Garnet Street, Shadwell","garnet street, shadwell",True,True,"Garnet Street, Shadwell",453,51.508447,-0.055167,ID_AND_NAME_MATCH
+454,"Napier Avenue, Millwall","napier avenue, millwall",True,True,"Napier Avenue, Millwall",454,51.487679,-0.021582,ID_AND_NAME_MATCH
+455,"East Ferry Road, Cubitt Town","east ferry road, cubitt town",True,True,"East Ferry Road, Cubitt Town",455,51.49447,-0.014409,ID_AND_NAME_MATCH
+456,"Parkway, Camden Town","parkway, camden town",True,False,"Albert Street, Camden Town",,,,ID_ONLY_REVIEW_REQUIRED
+457,"Castlehaven Road, Camden Town","castlehaven road, camden town",True,True,"Castlehaven Road, Camden Town",457,51.542138,-0.145393,ID_AND_NAME_MATCH
+458,"Wapping Lane, Wapping","wapping lane, wapping",True,True,"Wapping Lane, Wapping",458,51.504749,-0.057544,ID_AND_NAME_MATCH
+459,"Gunmakers Lane, Old Ford","gunmakers lane, old ford",True,True,"Gunmakers Lane, Old Ford",459,51.535179,-0.03338,ID_AND_NAME_MATCH
+460,"Burdett Road, Mile End","burdett road, mile end",False,True,,890,51.516196,-0.029137,NAME_ONLY_MATCH
+461,"Aston Street, Stepney","aston street, stepney",True,True,"Aston Street, Stepney",461,51.516,-0.038775,ID_AND_NAME_MATCH
+462,"Bonny Street, Camden Town","bonny street, camden town",True,True,"Bonny Street, Camden Town",462,51.541603,-0.138853,ID_AND_NAME_MATCH
+463,"Thurtle road, Haggerston","thurtle road, haggerston",True,True,"Thurtle Road, Haggerston",463,51.534776,-0.071881,ID_AND_NAME_MATCH
+464,"St. Mary & St. Michael Church, Stepney","st. mary & st. michael church, stepney",True,True,"St. Mary & St. Michael Church, Stepney",464,51.51417,-0.052099,ID_AND_NAME_MATCH
+465,"Pitfield Street North,Hoxton","pitfield street north, hoxton",True,True,"Pitfield Street North,Hoxton",465,51.53558,-0.08249,ID_AND_NAME_MATCH
+466,"Whiston Road, Haggerston","whiston road, haggerston",True,True,"Whiston Road, Haggerston",466,51.534464,-0.076341,ID_AND_NAME_MATCH
+467,"Southern Grove, Bow","southern grove, bow",True,True,"Southern Grove, Bow",467,51.523538,-0.030556,ID_AND_NAME_MATCH
+468,"Cantrell Road, Bow","cantrell road, bow",True,True,"Cantrell Road, Bow",468,51.521564,-0.022694,ID_AND_NAME_MATCH
+469,"Lindfield Street, Poplar","lindfield street, poplar",True,True,"Lindfield Street, Poplar",469,51.513757,-0.020467,ID_AND_NAME_MATCH
+470,"Mostyn Grove, Bow","mostyn grove, bow",True,True,"Mostyn Grove, Bow",470,51.530535,-0.025492,ID_AND_NAME_MATCH
+471,"Hewison Street, Old Ford","hewison street, old ford",True,True,"Hewison Street, Old Ford",471,51.533283,-0.028155,ID_AND_NAME_MATCH
+472,"Malmesbury Road, Bow","malmesbury road, bow",True,True,"Malmesbury Road, Bow",472,51.529452,-0.027616,ID_AND_NAME_MATCH
+473,"Millharbour, Millwall","millharbour, millwall",True,True,"Millharbour, Millwall",473,51.496137,-0.019355,ID_AND_NAME_MATCH
+474,"Castalia Square, Cubitt Town","castalia square, cubitt town",True,False,"Gascoyne Road, Victoria Park",,,,ID_ONLY_REVIEW_REQUIRED
+475,"Lightermans Road, Millwall","lightermans road, millwall",True,True,"Lightermans Road, Millwall",475,51.499041,-0.020157,ID_AND_NAME_MATCH
+476,"Stebondale Street, Cubitt Town","stebondale street, cubitt town",True,True,"Stebondale Street, Cubitt Town",476,51.489096,-0.009205,ID_AND_NAME_MATCH
+477,"Spindrift Avenue, Millwall","spindrift avenue, millwall",True,True,"Spindrift Avenue, Millwall",477,51.49109,-0.018716,ID_AND_NAME_MATCH
+478,"Stepney Green Station, Stepney","stepney green station, stepney",True,True,"Stepney Green Station, Stepney",478,51.521889,-0.04667,ID_AND_NAME_MATCH
+479,"Pott Street, Bethnal Green","pott street, bethnal green",True,True,"Pott Street, Bethnal Green",479,51.527152,-0.058005,ID_AND_NAME_MATCH
+480,"Flamborough Street, Limehouse","flamborough street, limehouse",True,True,"Flamborough Street, Limehouse",480,51.512871,-0.038986,ID_AND_NAME_MATCH
+481,"Saunders Ness Road, Cubitt Town","saunders ness road, cubitt town",True,True,"Saunders Ness Road, Cubitt Town",481,51.487129,-0.009001,ID_AND_NAME_MATCH
+482,"Thornfield House, Poplar","thornfield house, poplar",True,False,"Exhibition Road Museums 2, South Kensington",,,,ID_ONLY_REVIEW_REQUIRED
+483,"Albert Gardens, Stepney","albert gardens, stepney",True,True,"Albert Gardens, Stepney",483,51.51328,-0.047784,ID_AND_NAME_MATCH
+484,"Bromley High Street, Bow","bromley high street, bow",True,True,"Bromley High Street, Bow",484,51.528828,-0.013258,ID_AND_NAME_MATCH
+485,"Old Ford Road, Bethnal Green","old ford road, bethnal green",True,True,"Old Ford Road, Bethnal Green",485,51.531127,-0.048017,ID_AND_NAME_MATCH
+486,"Granby Street, Shoreditch","granby street, shoreditch",True,True,"Granby Street, Shoreditch",486,51.525645,-0.069543,ID_AND_NAME_MATCH
+487,"Canton Street, Poplar","canton street, poplar",True,True,"Canton Street, Poplar",487,51.511811,-0.025626,ID_AND_NAME_MATCH
+488,"Reardon Street, Wapping","reardon street, wapping",True,True,"Reardon Street, Wapping",488,51.506946,-0.058681,ID_AND_NAME_MATCH
+489,"Christian Street, Whitechapel","christian street, whitechapel",True,True,"Christian Street, Whitechapel",489,51.513074,-0.064094,ID_AND_NAME_MATCH
+490,"Pennington Street, Wapping","pennington street, wapping",True,True,"Pennington Street, Wapping",490,51.508622,-0.065006,ID_AND_NAME_MATCH
+491,"Queen Mary's, Mile End","queen mary's, mile end",True,True,"Queen Mary's, Mile End",491,51.522507,-0.041378,ID_AND_NAME_MATCH
+492,"The Green Bridge, Mile End","the green bridge, mile end",False,False,,,,,NO_MATCH_REVIEW_REQUIRED
+494,"South Quay East, Canary Wharf","south quay east, canary wharf",True,True,"South Quay East, Canary Wharf",494,51.50196,-0.016251,ID_AND_NAME_MATCH
+495,"Bow Church Station, Bow","bow church station, bow",True,True,"Bow Church Station, Bow",495,51.528169,-0.018703,ID_AND_NAME_MATCH
+496,"Devons Road, Bow","devons road, bow",True,True,"Devons Road, Bow",496,51.52512,-0.015578,ID_AND_NAME_MATCH
+497,"Merchant Street, Bow","merchant street, bow",True,True,"Merchant Street, Bow",497,51.526578,-0.027581,ID_AND_NAME_MATCH
+498,"Bow Road Station, Bow","bow road station, bow",True,True,"Bow Road Station, Bow",498,51.527058,-0.025296,ID_AND_NAME_MATCH
+499,"Furze Green, Bow","furze green, bow",True,True,"Furze Green, Bow",499,51.519265,-0.021345,ID_AND_NAME_MATCH
+500,"Ansell House, Stepney","ansell house, stepney",True,True,"Ansell House, Stepney",500,51.520019,-0.05438,ID_AND_NAME_MATCH
+501,"Cephas Street, Bethnal Green","cephas street, bethnal green",True,True,"Cephas Street, Bethnal Green",501,51.522561,-0.054883,ID_AND_NAME_MATCH
+503,"Cleveland Way, Stepney","cleveland way, stepney",True,True,"Cleveland Way, Stepney",503,51.520893,-0.051394,ID_AND_NAME_MATCH
+504,"St. John's Park, Cubitt Town","st. john's park, cubitt town",True,True,"St. John's Park, Cubitt Town",504,51.496454,-0.009506,ID_AND_NAME_MATCH
+505,"Ackroyd Drive, Bow","ackroyd drive, bow",True,True,"Ackroyd Drive, Bow",505,51.520398,-0.026768,ID_AND_NAME_MATCH
+506,"Bell Lane, Liverpool Street","bell lane, liverpool street",True,True,"Bell Lane, Liverpool Street",506,51.517475,-0.075855,ID_AND_NAME_MATCH
+507,"Clarkson Street, Bethnal Green","clarkson street, bethnal green",True,True,"Clarkson Street, Bethnal Green",507,51.528692,-0.059091,ID_AND_NAME_MATCH
+508,"Fournier Street, Whitechapel","fournier street, whitechapel",True,True,"Fournier Street, Whitechapel",508,51.519362,-0.074431,ID_AND_NAME_MATCH
+509,"Fore Street, Guildhall","fore street, guildhall",True,True,"Fore Street Avenue, Guildhall",838,51.518093,-0.091401,ID_AND_NAME_MATCH
+510,"Westferry DLR, Limehouse","westferry dlr, limehouse",True,True,"Westferry DLR, Limehouse",510,51.509303,-0.025996,ID_AND_NAME_MATCH
+511,"Sutton Street, Shadwell","sutton street, shadwell",True,True,"Sutton Street, Shadwell",511,51.511066,-0.053558,ID_AND_NAME_MATCH
+512,"Pritchard's Road, Bethnal Green","pritchard's road, bethnal green",False,True,,867,51.532091,-0.061419,NAME_ONLY_MATCH
+513,"Watney Market, Stepney","watney market, stepney",True,True,"Watney Market, Stepney",513,51.514222,-0.055656,ID_AND_NAME_MATCH
+514,"Portman Square, Marylebone","portman square, marylebone",True,True,"Portman Square, Marylebone",514,51.516204,-0.155525,ID_AND_NAME_MATCH
+515,"Russell Gardens, Olympia","russell gardens, olympia",True,True,"Russell Gardens, Olympia",515,51.500088,-0.211316,ID_AND_NAME_MATCH
+516,"Chrisp Street Market, Poplar","chrisp street market, poplar",True,True,"Chrisp Street Market, Poplar",516,51.5112,-0.014438,ID_AND_NAME_MATCH
+517,"Ford Road, Old Ford","ford road, old ford",True,True,"Ford Road, Old Ford",517,51.532513,-0.033085,ID_AND_NAME_MATCH
+518,"Antill Road, Mile End","antill road, mile end",True,True,"Antill Road, Mile End",518,51.528224,-0.037471,ID_AND_NAME_MATCH
+519,"Teviot Street, Poplar","teviot street, poplar",True,True,"Teviot Street, Poplar",519,51.518811,-0.011662,ID_AND_NAME_MATCH
+520,"Bancroft Road, Bethnal Green","bancroft road, bethnal green",True,True,"Bancroft Road, Bethnal Green",520,51.526041,-0.047218,ID_AND_NAME_MATCH
+521,"Driffield Road, Old Ford","driffield road, old ford",True,True,"Driffield Road, Old Ford",521,51.534137,-0.037366,ID_AND_NAME_MATCH
+522,"Clinton Road, Mile End","clinton road, mile end",True,True,"Clinton Road, Mile End",522,51.525941,-0.036017,ID_AND_NAME_MATCH
+523,"Langdon Park, Poplar","langdon park, poplar",True,True,"Langdon Park, Poplar",523,51.51549,-0.013475,ID_AND_NAME_MATCH
+524,"Lancaster Gate , Bayswater","lancaster gate, bayswater",True,True,"Lancaster Gate , Bayswater",524,51.511654,-0.179668,ID_AND_NAME_MATCH
+526,"Lancaster Drive, Blackwall","lancaster drive, blackwall",True,True,"Lancaster Drive, Blackwall",526,51.503143,-0.008428,ID_AND_NAME_MATCH
+527,"Hansard Mews, Holland Park","hansard mews, holland park",True,True,"Hansard Mews, Holland Park",527,51.503802,-0.215808,ID_AND_NAME_MATCH
+528,"Clarges Street, Mayfair","clarges street, mayfair",True,True,"Clarges Street, Mayfair",528,51.507326,-0.145827,ID_AND_NAME_MATCH
+529,"Manresa Road, Chelsea","manresa road, chelsea",True,True,"Manresa Road, Chelsea",529,51.486892,-0.170983,ID_AND_NAME_MATCH
+530,"Newby Place, Poplar","newby place, poplar",True,True,"Newby Place, Poplar",530,51.508896,-0.012413,ID_AND_NAME_MATCH
+531,"Twig Folly Bridge, Mile End","twig folly bridge, mile end",True,True,"Twig Folly Bridge, Mile End",531,51.530326,-0.042744,ID_AND_NAME_MATCH
+532,"Jubilee Plaza, Canary Wharf","jubilee plaza, canary wharf",True,True,"Jubilee Plaza, Canary Wharf",532,51.5034,-0.020242,ID_AND_NAME_MATCH
+533,"Wellington Row, Bethnal Green","wellington row, bethnal green",True,True,"Wellington Row, Bethnal Green",533,51.528222,-0.069743,ID_AND_NAME_MATCH
+534,"Goldsmith's Row, Haggerston","goldsmith's row, haggerston",True,True,"Goldsmith's Row, Haggerston",534,51.531864,-0.066035,ID_AND_NAME_MATCH
+535,"Gloucester Avenue, Camden Town","gloucester avenue, camden town",False,True,,885,51.537349,-0.147154,NAME_ONLY_MATCH
+536,"Queensbridge Road, Haggerston","queensbridge road, haggerston",True,True,"Queensbridge Road, Haggerston",536,51.53385,-0.06992,ID_AND_NAME_MATCH
+537,"Old Montague Street, Whitechapel","old montague street, whitechapel",True,True,"Old Montague Street, Whitechapel",537,51.51793,-0.067937,ID_AND_NAME_MATCH
+538,"Naval Row, Blackwall","naval row, blackwall",True,True,"Naval Row, Blackwall",538,51.508981,-0.00699,ID_AND_NAME_MATCH
+539,"Hoxton Station, Hoxton","hoxton station, hoxton",True,True,"Hoxton Station, Hoxton",539,51.531091,-0.075901,ID_AND_NAME_MATCH
+540,"Albany Street, The Regent's Park","albany street, the regent's park",False,True,,881,51.528302,-0.144465,NAME_ONLY_MATCH
+541,"Green Park Station, Mayfair","green park station, mayfair",True,True,"Green Park Station, Mayfair",541,51.506613,-0.142844,ID_AND_NAME_MATCH
+542,"Salmon Lane, Limehouse","salmon lane, limehouse",True,True,"Salmon Lane, Limehouse",542,51.514115,-0.033828,ID_AND_NAME_MATCH
+543,"Lansdowne Walk, Ladbroke Grove","lansdowne walk, ladbroke grove",True,True,"Lansdowne Walk, Ladbroke Grove",543,51.509591,-0.204666,ID_AND_NAME_MATCH
+544,"Percival Street, Finsbury","percival street, finsbury",True,True,"Percival Street, Finsbury",544,51.526153,-0.102208,ID_AND_NAME_MATCH
+545,"Arlington Road, Camden Town","arlington road, camden town",True,True,"Arlington Road, Camden Town",545,51.539957,-0.145246,ID_AND_NAME_MATCH
+546,"New Fetter Lane, Holborn","new fetter lane, holborn",True,True,"New Fetter Lane, Holborn",546,51.517428,-0.107987,ID_AND_NAME_MATCH
+547,"East India DLR, Blackwall","east india dlr, blackwall",True,True,"East India DLR, Blackwall",547,51.509474,-0.002275,ID_AND_NAME_MATCH
+548,"Westminster Bridge Road, Elephant & Castle","westminster bridge road, elephant & castle",True,True,"Westminster Bridge Road, Elephant & Castle",548,51.498386,-0.107913,ID_AND_NAME_MATCH
+549,"Gaywood  Street, Elephant & Castle","gaywood street, elephant & castle",True,True,"Gaywood  Street, Elephant & Castle",549,51.49605,-0.104193,ID_AND_NAME_MATCH
+550,"Harford Street, Mile End","harford street, mile end",True,True,"Harford Street, Mile End",550,51.521564,-0.039264,ID_AND_NAME_MATCH
+552,"Watney Street, Shadwell","watney street, shadwell",True,True,"Watney Street, Shadwell",552,51.511542,-0.056667,ID_AND_NAME_MATCH
+553,"Regent's Row , Haggerston ","regent's row, haggerston",True,True,"Regent's Row , Haggerston",553,51.535678,-0.062546,ID_AND_NAME_MATCH
+554,"Aberfeldy Street, Poplar","aberfeldy street, poplar",True,True,"Aberfeldy Street, Poplar",554,51.513548,-0.005659,ID_AND_NAME_MATCH
+556,"Heron Quays DLR, Canary Wharf","heron quays dlr, canary wharf",True,True,"Heron Quays DLR, Canary Wharf",556,51.502661,-0.021596,ID_AND_NAME_MATCH
+557,"King Edward Street, St Pauls","king edward street, st pauls",True,True,"King Edward Street, St Pauls",557,51.51601,-0.0985,ID_AND_NAME_MATCH
+558,"Page Street, Westminster","page street, westminster",True,True,"Page Street, Westminster",558,51.493978,-0.127554,ID_AND_NAME_MATCH
+559,"Abbotsbury Road, Holland Park","abbotsbury road, holland park",True,True,"Abbotsbury Road, Holland Park",559,51.501391,-0.205991,ID_AND_NAME_MATCH
+560,"Ladbroke Grove Central, Ladbroke Grove","ladbroke grove central, ladbroke grove",True,True,"Ladbroke Grove Central, Ladbroke Grove",560,51.511624,-0.205921,ID_AND_NAME_MATCH
+561,"Rectory Square, Stepney","rectory square, stepney",True,True,"Rectory Square, Stepney",561,51.518369,-0.043371,ID_AND_NAME_MATCH
+562,"Bury Place, Holborn","bury place, holborn",True,True,"Bury Place, Holborn",562,51.51742,-0.123189,ID_AND_NAME_MATCH
+563,"Preston's Road, Cubitt Town","preston's road, cubitt town",True,True,"Preston's Road, Cubitt Town",563,51.499286,-0.009152,ID_AND_NAME_MATCH
+564,"Somerset House, Strand","somerset house, strand",True,True,"Somerset House, Strand",564,51.509943,-0.117619,ID_AND_NAME_MATCH
+565,"Selby Street, Whitechapel","selby street, whitechapel",True,True,"Selby Street, Whitechapel",565,51.521905,-0.063386,ID_AND_NAME_MATCH
+566,"Westfield Ariel Way, White City","westfield ariel way, white city",False,True,,884,51.509158,-0.224103,NAME_ONLY_MATCH
+568,"Bishop's Bridge Road West, Bayswater","bishop's bridge road west, bayswater",True,True,"Bishop's Bridge Road West, Bayswater",568,51.51616,-0.18697,ID_AND_NAME_MATCH
+569,"Pitfield Street Central, Hoxton","pitfield street central, hoxton",True,True,"Pitfield Street Central, Hoxton",569,51.53213,-0.08299,ID_AND_NAME_MATCH
+570,"Upper Bank Street, Canary Wharf","upper bank street, canary wharf",True,True,"Upper Bank Street, Canary Wharf",570,51.503083,-0.017676,ID_AND_NAME_MATCH
+571,"Westfield Southern Terrace ,Shepherd's Bush","westfield southern terrace, shepherd's bush",True,True,"Westfield Southern Terrace ,Shepherd's Bush",571,51.506256,-0.218337,ID_AND_NAME_MATCH
+572,"Greenland Road, Camden Town","greenland road, camden town",True,True,"Greenland Road, Camden Town",572,51.539099,-0.141728,ID_AND_NAME_MATCH
+573,"Limerston Street, West Chelsea","limerston street, west chelsea",True,True,"Limerston Street, West Chelsea",573,51.485587,-0.18119,ID_AND_NAME_MATCH
+574,"Eagle Wharf Road, Hoxton","eagle wharf road, hoxton",True,True,"Eagle Wharf Road, Hoxton",574,51.53356,-0.09315,ID_AND_NAME_MATCH
+576,"Alpha Grove, Millwall","alpha grove, millwall",True,True,"Alpha Grove, Millwall",576,51.497304,-0.022793,ID_AND_NAME_MATCH
+577,"Globe Town Market, Bethnal Green","globe town market, bethnal green",True,True,"Globe Town Market, Bethnal Green",577,51.528869,-0.047548,ID_AND_NAME_MATCH
+578,"Hollybush Gardens, Bethnal Green","hollybush gardens, bethnal green",True,True,"Hollybush Gardens, Bethnal Green",578,51.527607,-0.057133,ID_AND_NAME_MATCH
+579,"Queen Street 2, Bank","queen street 2, bank",True,True,"Queen Street 2, Bank",579,51.511246,-0.093051,ID_AND_NAME_MATCH
+580,"Doddington Grove, Kennington","doddington grove, kennington",True,True,"Doddington Grove, Kennington",580,51.486929,-0.102996,ID_AND_NAME_MATCH
+581,"New Cavendish Street, Marylebone","new cavendish street, marylebone",True,True,"New Cavendish Street, Marylebone",581,51.519167,-0.147983,ID_AND_NAME_MATCH
+583,"Abingdon Green, Westminster","abingdon green, westminster",True,True,"Abingdon Green, Westminster",583,51.49764,-0.125972,ID_AND_NAME_MATCH
+584,"Ilchester Gardens, Bayswater","ilchester gardens, bayswater",True,True,"Ilchester Gardens, Bayswater",584,51.51244,-0.19096,ID_AND_NAME_MATCH
+586,"Mudchute DLR, Cubitt Town","mudchute dlr, cubitt town",True,True,"Mudchute DLR, Cubitt Town",586,51.490645,-0.014582,ID_AND_NAME_MATCH
+587,"Monument Street, Monument","monument street, monument",True,True,"Monument Street, Monument",587,51.50964,-0.08497,ID_AND_NAME_MATCH
+588,"Hoxton Street, Hoxton","hoxton street, hoxton",True,True,"Hoxton Street, Hoxton",588,51.52959,-0.0801,ID_AND_NAME_MATCH
+589,"Drayton Gardens, West Chelsea","drayton gardens, west chelsea",True,True,"Drayton Gardens, West Chelsea",589,51.487196,-0.179369,ID_AND_NAME_MATCH
+590,"Greenberry Street, St.John's Wood","greenberry street, st.john's wood",True,True,"Greenberry Street, St.John's Wood",590,51.53256,-0.16862,ID_AND_NAME_MATCH
+591,"Westfield Library Corner, Shepherd's Bush","westfield library corner, shepherd's bush",True,True,"Westfield Library Corner, Shepherd's Bush",591,51.506093,-0.224223,ID_AND_NAME_MATCH
+592,"Bishop's Bridge Road East, Bayswater","bishop's bridge road east, bayswater",True,True,"Bishop's Bridge Road East, Bayswater",592,51.5171,-0.18377,ID_AND_NAME_MATCH
+593,"Northdown Street, King's Cross","northdown street, king's cross",True,True,"Northdown Street, King's Cross",593,51.531066,-0.11934,ID_AND_NAME_MATCH
+594,"Kingsway Southbound, Strand","kingsway southbound, strand",True,True,"Kingsway Southbound, Strand",594,51.513875,-0.117774,ID_AND_NAME_MATCH
+595,"Hammersmith Road, Hammersmith","hammersmith road, hammersmith",True,True,"Hammersmith Road, Hammersmith",595,51.493267,-0.21985,ID_AND_NAME_MATCH
+596,"Parson's Green , Parson's Green","parson's green, parson's green",True,True,"Parson's Green , Parson's Green",596,51.472817,-0.199783,ID_AND_NAME_MATCH
+597,"Fulham Park Road, Fulham","fulham park road, fulham",True,True,"Fulham Park Road, Fulham",597,51.473471,-0.20782,ID_AND_NAME_MATCH
+598,"Southerton Road, Hammersmith","southerton road, hammersmith",True,True,"Southerton Road, Hammersmith",598,51.494499,-0.228188,ID_AND_NAME_MATCH
+599,"Manbre Road, Hammersmith","manbre road, hammersmith",True,True,"Manbre Road, Hammersmith",599,51.485743,-0.223616,ID_AND_NAME_MATCH
+600,"South Lambeth Road, Vauxhall","south lambeth road, vauxhall",True,True,"South Lambeth Road, Vauxhall",600,51.481747,-0.124642,ID_AND_NAME_MATCH
+601,"BBC White City, White City","bbc white city, white city",False,True,,879,51.514767,-0.225786,NAME_ONLY_MATCH
+602,"Union Grove, Wandsworth Road","union grove, wandsworth road",True,True,"Union Grove, Wandsworth Road",602,51.472993,-0.133972,ID_AND_NAME_MATCH
+603,"Caldwell Street, Stockwell","caldwell street, stockwell",True,True,"Caldwell Street, Stockwell",603,51.477839,-0.116493,ID_AND_NAME_MATCH
+604,"St Martins Close, Camden Town","st martins close, camden town",True,True,"St Martins Close, Camden Town",604,51.538792,-0.138535,ID_AND_NAME_MATCH
+605,"Seymour Place, Marylebone","seymour place, marylebone",True,True,"Seymour Place, Marylebone",605,51.520331,-0.163667,ID_AND_NAME_MATCH
+606,"Addison Road, Holland Park","addison road, holland park",True,True,"Addison Road, Holland Park",606,51.504199,-0.210941,ID_AND_NAME_MATCH
+607,"Putney Bridge Station, Fulham","putney bridge station, fulham",True,True,"Putney Bridge Station, Fulham",607,51.468814,-0.210279,ID_AND_NAME_MATCH
+608,"Colet Gardens, Hammersmith","colet gardens, hammersmith",True,True,"Colet Gardens, Hammersmith",608,51.491093,-0.216493,ID_AND_NAME_MATCH
+609,"Sugden Road, Clapham","sugden road, clapham",True,True,"Sugden Road, Clapham",609,51.465123,-0.157788,ID_AND_NAME_MATCH
+610,"Danvers Street, West Chelsea","danvers street, west chelsea",True,True,"Danvers Street, West Chelsea",610,51.482567,-0.172078,ID_AND_NAME_MATCH
+611,"Princedale Road , Holland Park","princedale road, holland park",True,True,"Princedale Road , Holland Park",611,51.506465,-0.208486,ID_AND_NAME_MATCH
+612,"Wandsworth Rd, Isley Court, Wandsworth Road","wandsworth rd, isley court, wandsworth road",True,True,"Wandsworth Rd, Isley Court, Wandsworth Road",612,51.469259,-0.141812,ID_AND_NAME_MATCH
+613,"Woodstock Grove, Shepherd's Bush","woodstock grove, shepherd's bush",True,True,"Woodstock Grove, Shepherd's Bush",613,51.504038,-0.2174,ID_AND_NAME_MATCH
+614,"Bradmead, Battersea Park","bradmead, battersea park",False,False,,,,,NO_MATCH_REVIEW_REQUIRED
+615,"Finlay Street, Fulham","finlay street, fulham",True,True,"Finlay Street, Fulham",615,51.476885,-0.215895,ID_AND_NAME_MATCH
+616,"Aintree Street, Fulham","aintree street, fulham",True,True,"Aintree Street, Fulham",616,51.481021,-0.209973,ID_AND_NAME_MATCH
+617,"Elysium Place, Fulham","elysium place, fulham",True,True,"Elysium Place, Fulham",617,51.471079,-0.207842,ID_AND_NAME_MATCH
+618,"Eel Brook Common, Walham Green","eel brook common, walham green",True,True,"Eel Brook Common, Walham Green",618,51.476259,-0.193254,ID_AND_NAME_MATCH
+619,"Irene Road, Parsons Green","irene road, parsons green",True,True,"Irene Road, Parsons Green",619,51.473763,-0.19701,ID_AND_NAME_MATCH
+620,"Surrey Lane, Battersea","surrey lane, battersea",True,True,"Surrey Lane, Battersea",620,51.47518,-0.16716,ID_AND_NAME_MATCH
+621,"Wandsworth Town Station, Wandsworth","wandsworth town station, wandsworth",True,True,"Wandsworth Town Station, Wandsworth",621,51.460864,-0.187427,ID_AND_NAME_MATCH
+622,"Lansdowne Road, Ladbroke Grove","lansdowne road, ladbroke grove",True,True,"Lansdowne Road, Ladbroke Grove",622,51.507481,-0.205535,ID_AND_NAME_MATCH
+623,"Nantes Close, Wandsworth","nantes close, wandsworth",True,True,"Nantes Close, Wandsworth",623,51.46193,-0.180791,ID_AND_NAME_MATCH
+624,"Courland Grove, Wandsworth Road","courland grove, wandsworth road",True,True,"Courland Grove, Wandsworth Road",624,51.472918,-0.132102,ID_AND_NAME_MATCH
+625,"Queen's Circus, Battersea Park","queen's circus, battersea park",True,True,"Queen's Circus, Battersea Park",625,51.477619,-0.149551,ID_AND_NAME_MATCH
+626,"Normand Park, West Kensington","normand park, west kensington",True,True,"Normand Park, West Kensington",626,51.484386,-0.204815,ID_AND_NAME_MATCH
+627,"Holden Street, Battersea","holden street, battersea",True,True,"Holden Street, Battersea",627,51.46879,-0.15823,ID_AND_NAME_MATCH
+628,"William Morris Way, Sands End","william morris way, sands end",True,True,"William Morris Way, Sands End",628,51.468819,-0.184318,ID_AND_NAME_MATCH
+629,"Morie Street, Wandsworth","morie street, wandsworth",True,True,"Morie Street, Wandsworth",629,51.459953,-0.190184,ID_AND_NAME_MATCH
+630,"Clarence Walk, Stockwell","clarence walk, stockwell",True,True,"Clarence Walk, Stockwell",630,51.470732,-0.126994,ID_AND_NAME_MATCH
+631,"Battersea Park Road, Nine Elms","battersea park road, nine elms",True,True,"Battersea Park Road, Nine Elms",631,51.479501,-0.14177,ID_AND_NAME_MATCH
+632,"Sheepcote Lane, Battersea","sheepcote lane, battersea",True,True,"Sheepcote Lane, Battersea",632,51.470538,-0.163041,ID_AND_NAME_MATCH
+633,"Vereker Road, West Kensington","vereker road, west kensington",True,True,"Vereker Road, West Kensington",633,51.489591,-0.209378,ID_AND_NAME_MATCH
+634,"Brook Green South, Brook Green","brook green south, brook green",True,True,"Brook Green South, Brook Green",634,51.494347,-0.215804,ID_AND_NAME_MATCH
+635,"Greyhound Road, Hammersmith","greyhound road, hammersmith",True,True,"Greyhound Road, Hammersmith",635,51.486062,-0.214428,ID_AND_NAME_MATCH
+636,"South Park, Sands End","south park, sands end",True,True,"South Park, Sands End",636,51.467064,-0.193502,ID_AND_NAME_MATCH
+637,"Spencer Park, Wandsworth Common","spencer park, wandsworth common",False,True,,877,51.45787,-0.174691,NAME_ONLY_MATCH
+638,"Falcon Road, Clapham Junction","falcon road, clapham junction",True,True,"Falcon Road, Clapham Junction",638,51.466633,-0.169821,ID_AND_NAME_MATCH
+639,"Coomer Place, West Kensington","coomer place, west kensington",False,True,,852,51.48357,-0.202038,NAME_ONLY_MATCH
+640,"Silverthorne Road, Battersea","silverthorne road, battersea",True,True,"Silverthorne Road, Battersea",640,51.472865,-0.148059,ID_AND_NAME_MATCH
+641,"Archbishop's Park, Waterloo","archbishop's park, waterloo",True,True,"Archbishop's Park, Waterloo",641,51.498241,-0.117495,ID_AND_NAME_MATCH
+642,"Fawcett Close, Battersea","fawcett close, battersea",True,True,"Fawcett Close, Battersea",642,51.469161,-0.174485,ID_AND_NAME_MATCH
+643,"All Saints' Road, Portobello","all saints' road, portobello",True,True,"All Saints' Road, Portobello",643,51.519042,-0.204764,ID_AND_NAME_MATCH
+644,"Rainville Road, Hammersmith","rainville road, hammersmith",True,True,"Rainville Road, Hammersmith",644,51.483732,-0.223852,ID_AND_NAME_MATCH
+645,"Great Suffolk Street, The Borough","great suffolk street, the borough",True,True,"Great Suffolk Street, The Borough",645,51.501732,-0.100292,ID_AND_NAME_MATCH
+646,"Buckingham Gate, Westminster","buckingham gate, westminster",True,True,"Buckingham Gate, Westminster",646,51.498865,-0.137424,ID_AND_NAME_MATCH
+647,"Richmond Way, Shepherd's Bush","richmond way, shepherd's bush",True,True,"Richmond Way, Shepherd's Bush",647,51.500353,-0.217515,ID_AND_NAME_MATCH
+648,"Peterborough Road, Sands End","peterborough road, sands end",True,True,"Peterborough Road, Sands End",648,51.46904,-0.196274,ID_AND_NAME_MATCH
+649,"World's End Place, West Chelsea","world's end place, west chelsea",True,True,"World's End Place, West Chelsea",649,51.481805,-0.180274,ID_AND_NAME_MATCH
+650,"St. Mark's Road, North Kensington","st. mark's road, north kensington",True,True,"St. Mark's Road, North Kensington",650,51.51687,-0.213872,ID_AND_NAME_MATCH
+651,"Thorndike Close, West Chelsea","thorndike close, west chelsea",True,True,"Thorndike Close, West Chelsea",651,51.480898,-0.183853,ID_AND_NAME_MATCH
+652,"Evesham Street, Avondale","evesham street, avondale",True,True,"Evesham Street, Avondale",652,51.511486,-0.21819,ID_AND_NAME_MATCH
+653,"Simpson Street, Clapham Junction","simpson street, clapham junction",True,True,"Simpson Street, Clapham Junction",653,51.470847,-0.170703,ID_AND_NAME_MATCH
+654,"Ashmole Estate, Oval","ashmole estate, oval",True,True,"Ashmole Estate, Oval",654,51.482678,-0.117661,ID_AND_NAME_MATCH
+655,"Crabtree Lane, Fulham","crabtree lane, fulham",True,True,"Crabtree Lane, Fulham",655,51.482944,-0.219346,ID_AND_NAME_MATCH
+656,"Broomhouse Lane, Parsons Green","broomhouse lane, parsons green",True,True,"Broomhouse Lane, Parsons Green",656,51.468418,-0.199135,ID_AND_NAME_MATCH
+657,"Blythe Road West, Shepherd's Bush","blythe road west, shepherd's bush",True,True,"Blythe Road West, Shepherd's Bush",657,51.49968,-0.221791,ID_AND_NAME_MATCH
+658,"Ethelburga Estate, Battersea Park","ethelburga estate, battersea park",True,True,"Ethelburga Estate, Battersea Park",658,51.477292,-0.164786,ID_AND_NAME_MATCH
+659,"Grant Road West, Clapham Junction","grant road west, clapham junction",True,False,"Blackfriars Station, St. Paul's",,,,ID_ONLY_REVIEW_REQUIRED
+660,"West Kensington Station, West Kensington","west kensington station, west kensington",True,True,"West Kensington Station, West Kensington",660,51.49087,-0.206029,ID_AND_NAME_MATCH
+661,"All Saints Church, Portobello","all saints church, portobello",True,True,"All Saints Church, Portobello",661,51.51632,-0.202608,ID_AND_NAME_MATCH
+662,"Phene Street, Chelsea","phene street, chelsea",True,True,"Phene Street, Chelsea",662,51.484984,-0.167919,ID_AND_NAME_MATCH
+663,"Clarendon Road, Avondale","clarendon road, avondale",True,True,"Clarendon Road, Avondale",663,51.51323,-0.211593,ID_AND_NAME_MATCH
+664,"Austin Road, Battersea Park","austin road, battersea park",True,True,"Austin Road, Battersea Park",664,51.474376,-0.155442,ID_AND_NAME_MATCH
+665,"Smugglers Way, Wandsworth","smugglers way, wandsworth",True,True,"Smugglers Way, Wandsworth",665,51.461083,-0.191722,ID_AND_NAME_MATCH
+666,"Olympia Way, Olympia","olympia way, olympia",True,False,"Harris Academy, Bermondsey",,,,ID_ONLY_REVIEW_REQUIRED
+667,"Shepherd's Bush Road North, Shepherd's Bush","shepherd's bush road north, shepherd's bush",True,True,"Shepherd's Bush Road North, Shepherd's Bush",667,51.501594,-0.222293,ID_AND_NAME_MATCH
+668,"Ravenscourt Park Station, Hammersmith","ravenscourt park station, hammersmith",True,True,"Ravenscourt Park Station, Hammersmith",668,51.494223,-0.236769,ID_AND_NAME_MATCH
+669,"Teversham Lane, Stockwell","teversham lane, stockwell",True,True,"Teversham Lane, Stockwell",669,51.476149,-0.123258,ID_AND_NAME_MATCH
+670,"Ashley Crescent, Battersea","ashley crescent, battersea",True,True,"Ashley Crescent, Battersea",670,51.467185,-0.152248,ID_AND_NAME_MATCH
+671,"Parsons Green Station, Parsons Green","parsons green station, parsons green",True,True,"Parsons Green Station, Parsons Green",671,51.475089,-0.201968,ID_AND_NAME_MATCH
+672,"Grant Road Central, Clapham Junction","grant road central, clapham junction",True,False,"Chicheley Street, South Bank",,,,ID_ONLY_REVIEW_REQUIRED
+673,"Hibbert Street, Battersea","hibbert street, battersea",True,True,"Hibbert Street, Battersea",673,51.46517,-0.180389,ID_AND_NAME_MATCH
+674,"Carnegie Street, King's Cross","carnegie street, king's cross",True,True,"Carnegie Street, King's Cross",674,51.535467,-0.116191,ID_AND_NAME_MATCH
+675,"Usk Road, Clapham Junction","usk road, clapham junction",True,True,"Usk Road, Clapham Junction",675,51.463489,-0.182126,ID_AND_NAME_MATCH
+676,"Hartington Road, Stockwell","hartington road, stockwell",True,True,"Hartington Road, Stockwell",676,51.47787,-0.126874,ID_AND_NAME_MATCH
+677,"Heath Road, Battersea","heath road, battersea",True,True,"Heath Road, Battersea",677,51.468669,-0.146544,ID_AND_NAME_MATCH
+678,"Esmond Street, Putney","esmond street, putney",True,True,"Esmond Street, Putney",678,51.462312,-0.211468,ID_AND_NAME_MATCH
+679,"Orbel Street, Battersea","orbel street, battersea",True,True,"Orbel Street, Battersea",679,51.474535,-0.17021,ID_AND_NAME_MATCH
+680,"Westbridge Road, Battersea","westbridge road, battersea",True,True,"Westbridge Road, Battersea",680,51.477684,-0.170329,ID_AND_NAME_MATCH
+681,"Bishop's Avenue, Fulham","bishop's avenue, fulham",True,True,"Bishop's Avenue, Fulham",681,51.473036,-0.214749,ID_AND_NAME_MATCH
+682,"Crisp Road, Hammersmith","crisp road, hammersmith",True,True,"Crisp Road, Hammersmith",682,51.488108,-0.226606,ID_AND_NAME_MATCH
+683,"Dorothy Road, Clapham Junction","dorothy road, clapham junction",True,True,"Dorothy Road, Clapham Junction",683,51.465064,-0.16375,ID_AND_NAME_MATCH
+684,"Neville Gill Close, Wandsworth","neville gill close, wandsworth",True,True,"Neville Gill Close, Wandsworth",684,51.454752,-0.195197,ID_AND_NAME_MATCH
+685,"Osiers Road, Wandsworth","osiers road, wandsworth",True,True,"Osiers Road, Wandsworth",685,51.46067,-0.198735,ID_AND_NAME_MATCH
+686,"Beryl Road, Hammersmith","beryl road, hammersmith",True,True,"Beryl Road, Hammersmith",686,51.488144,-0.222456,ID_AND_NAME_MATCH
+687,"Maclise Road, Olympia","maclise road, olympia",True,False,"Clements Road, Bermondsey",,,,ID_ONLY_REVIEW_REQUIRED
+688,"Northfields, Wandsworth","northfields, wandsworth",True,True,"Northfields, Wandsworth",688,51.460951,-0.200667,ID_AND_NAME_MATCH
+689,"Spanish Road, Clapham Junction","spanish road, clapham junction",True,True,"Spanish Road, Clapham Junction",689,51.459225,-0.180884,ID_AND_NAME_MATCH
+690,"Stanley Grove, Battersea","stanley grove, battersea",True,True,"Stanley Grove, Battersea",690,51.470475,-0.15213,ID_AND_NAME_MATCH
+691,"Erin Close, Walham Green","erin close, walham green",True,True,"Erin Close, Walham Green",691,51.479463,-0.195777,ID_AND_NAME_MATCH
+692,"Cadogan Close, Victoria Park","cadogan close, victoria park",True,True,"Cadogan Close, Victoria Park",692,51.542118,-0.028941,ID_AND_NAME_MATCH
+693,"Felsham Road, Putney","felsham road, putney",True,True,"Felsham Road, Putney",693,51.464786,-0.215618,ID_AND_NAME_MATCH
+694,"Putney Rail Station, Putney","putney rail station, putney",True,True,"Putney Rail Station, Putney",694,51.460717,-0.216526,ID_AND_NAME_MATCH
+695,"Islington Green, Angel","islington green, angel",True,True,"Islington Green, Angel",695,51.536384,-0.102757,ID_AND_NAME_MATCH
+696,"Charing Cross Hospital, Hammersmith","charing cross hospital, hammersmith",True,True,"Charing Cross Hospital, Hammersmith",696,51.487285,-0.217995,ID_AND_NAME_MATCH
+697,"Charlotte Terrace, Angel","charlotte terrace, angel",True,True,"Charlotte Terrace, Angel",697,51.536392,-0.112721,ID_AND_NAME_MATCH
+698,"Shoreditch Court, Haggerston","shoreditch court, haggerston",True,True,"Shoreditch Court, Haggerston",698,51.539083,-0.070329,ID_AND_NAME_MATCH
+699,"Belford House, Haggerston","belford house, haggerston",True,True,"Belford House, Haggerston",699,51.536654,-0.07023,ID_AND_NAME_MATCH
+700,"Battersea Church Road, Battersea","battersea church road, battersea",True,True,"Battersea Church Road, Battersea",700,51.476964,-0.174347,ID_AND_NAME_MATCH
+701,"Vicarage Crescent, Battersea","vicarage crescent, battersea",True,True,"Vicarage Crescent, Battersea",701,51.472876,-0.176267,ID_AND_NAME_MATCH
+702,"Durant Street, Bethnal Green","durant street, bethnal green",True,True,"Durant Street, Bethnal Green",702,51.528681,-0.06555,ID_AND_NAME_MATCH
+703,"St. Bride Street, Holborn","st. bride street, holborn",True,True,"St. Bride Street, Holborn",703,51.514665,-0.104583,ID_AND_NAME_MATCH
+704,"Mexfield Road, East Putney","mexfield road, east putney",True,True,"Mexfield Road, East Putney",704,51.45682,-0.202802,ID_AND_NAME_MATCH
+706,"Snowsfields, London Bridge","snowsfields, london bridge",True,True,"Snowsfields, London Bridge",706,51.502153,-0.083632,ID_AND_NAME_MATCH
+707,"Barons Court Station, West Kensington","barons court station, west kensington",True,True,"Barons Court Station, West Kensington",707,51.490217,-0.215087,ID_AND_NAME_MATCH
+708,"Disraeli Road, Putney","disraeli road, putney",True,True,"Disraeli Road, Putney",708,51.46161,-0.216145,ID_AND_NAME_MATCH
+709,"Montserrat Road , Putney","montserrat road, putney",True,True,"Montserrat Road , Putney",709,51.463211,-0.21555,ID_AND_NAME_MATCH
+710,"Albert Bridge Road, Battersea Park","albert bridge road, battersea park",True,True,"Albert Bridge Road, Battersea Park",710,51.474392,-0.163347,ID_AND_NAME_MATCH
+711,"Everington Street, Fulham","everington street, fulham",True,True,"Everington Street, Fulham",711,51.483356,-0.216305,ID_AND_NAME_MATCH
+712,"Mile End Stadium, Mile End","mile end stadium, mile end",True,True,"Mile End Stadium, Mile End",712,51.518541,-0.034903,ID_AND_NAME_MATCH
+713,"Hawley Crescent, Camden Town","hawley crescent, camden town",True,True,"Hawley Crescent, Camden Town",713,51.541007,-0.14326,ID_AND_NAME_MATCH
+714,"Stewart's Road, Wandsworth Road","stewart's road, wandsworth road",True,True,"Stewart's Road, Wandsworth Road",714,51.473116,-0.137235,ID_AND_NAME_MATCH
+715,"Aylward Street, Stepney","aylward street, stepney",True,True,"Aylward Street, Stepney",715,51.51563,-0.049067,ID_AND_NAME_MATCH
+716,"Stainsby Road , Poplar","stainsby road, poplar",True,True,"Stainsby Road , Poplar",716,51.515427,-0.023565,ID_AND_NAME_MATCH
+717,"Dunston Road , Haggerston","dunston road, haggerston",True,True,"Dunston Road , Haggerston",717,51.536585,-0.075885,ID_AND_NAME_MATCH
+718,"Ada Street, Hackney Central","ada street, hackney central",True,True,"Ada Street, Hackney Central",718,51.535716,-0.060291,ID_AND_NAME_MATCH
+719,"Victoria Park Road, Hackney Central","victoria park road, hackney central",True,True,"Victoria Park Road, Hackney Central",719,51.536424,-0.054162,ID_AND_NAME_MATCH
+720,"Star Road, West Kensington","star road, west kensington",True,True,"Star Road, West Kensington",720,51.487244,-0.205279,ID_AND_NAME_MATCH
+721,"Wendon Street, Old Ford","wendon street, old ford",True,True,"Wendon Street, Old Ford",721,51.536039,-0.026262,ID_AND_NAME_MATCH
+722,"Finnis Street, Bethnal Green","finnis street, bethnal green",True,True,"Finnis Street, Bethnal Green",722,51.524583,-0.058631,ID_AND_NAME_MATCH
+723,"Stephendale Road, Sands End","stephendale road, sands end",True,True,"Stephendale Road, Sands End",723,51.46822,-0.190346,ID_AND_NAME_MATCH
+724,"Alma Road, Wandsworth","alma road, wandsworth",True,True,"Alma Road, Wandsworth",724,51.457991,-0.184806,ID_AND_NAME_MATCH
+725,"Thessaly Road North, Wandsworth Road","thessaly road north, wandsworth road",True,False,"Walworth Square, Walworth",,,,ID_ONLY_REVIEW_REQUIRED
+726,"Alfreda Street, Battersea Park","alfreda street, battersea park",True,True,"Alfreda Street, Battersea Park",726,51.47505,-0.150908,ID_AND_NAME_MATCH
+727,"Chesilton Road, Fulham","chesilton road, fulham",True,True,"Chesilton Road, Fulham",727,51.475698,-0.205876,ID_AND_NAME_MATCH
+728,"Putney Bridge Road, East Putney","putney bridge road, east putney",True,True,"Putney Bridge Road, East Putney",728,51.461999,-0.20624,ID_AND_NAME_MATCH
+729,"St. Peter's Terrace, Fulham","st. peter's terrace, fulham",True,True,"St. Peter's Terrace, Fulham",729,51.478939,-0.208485,ID_AND_NAME_MATCH
+730,"Bridge Avenue, Hammersmith","bridge avenue, hammersmith",True,True,"Bridge Avenue, Hammersmith",730,51.492084,-0.229116,ID_AND_NAME_MATCH
+731,"Michael Road, Walham Green","michael road, walham green",True,True,"Michael Road, Walham Green",731,51.477276,-0.18921,ID_AND_NAME_MATCH
+732,"Duke Street Hill, London Bridge","duke street hill, london bridge",True,True,"Duke Street Hill, London Bridge",732,51.506304,-0.087262,ID_AND_NAME_MATCH
+733,"Park Lane, Mayfair","park lane, mayfair",True,True,"Park Lane, Mayfair",733,51.505426,-0.150817,ID_AND_NAME_MATCH
+734,"Plough Terrace, Clapham Junction","plough terrace, clapham junction",True,True,"Plough Terrace, Clapham Junction",734,51.462305,-0.175407,ID_AND_NAME_MATCH
+735,"Grant Road East, Clapham Junction","grant road east, clapham junction",True,True,"Grant Road East, Clapham Junction",735,51.464894,-0.173029,ID_AND_NAME_MATCH
+736,"Queensdale Road, Shepherd's Bush","queensdale road, shepherd's bush",True,True,"Queensdale Road, Shepherd's Bush",736,51.50659,-0.216104,ID_AND_NAME_MATCH
+737,"Fulham Broadway, Walham Green","fulham broadway, walham green",True,True,"Fulham Broadway, Walham Green",737,51.479932,-0.194116,ID_AND_NAME_MATCH
+738,"Imperial Road, Sands End","imperial road, sands end",True,True,"Imperial Road, Sands End",738,51.475142,-0.187278,ID_AND_NAME_MATCH
+739,"Hortensia Road, West Brompton","hortensia road, west brompton",True,True,"Hortensia Road, West Brompton",739,51.481765,-0.185273,ID_AND_NAME_MATCH
+740,"Sirdar Road, Avondale","sirdar road, avondale",True,True,"Sirdar Road, Avondale",740,51.510928,-0.214594,ID_AND_NAME_MATCH
+741,"Freston Road, Avondale","freston road, avondale",True,True,"Freston Road, Avondale",741,51.512981,-0.219486,ID_AND_NAME_MATCH
+742,"Blenheim Crescent, Ladbroke Grove","blenheim crescent, ladbroke grove",True,True,"Blenheim Crescent, Ladbroke Grove",742,51.515108,-0.208565,ID_AND_NAME_MATCH
+743,"Oxford Road, Putney","oxford road, putney",True,True,"Oxford Road, Putney",743,51.460792,-0.212607,ID_AND_NAME_MATCH
+744,"Ingrave Street, Clapham Junction","ingrave street, clapham junction",True,True,"Ingrave Street, Clapham Junction",744,51.467454,-0.172293,ID_AND_NAME_MATCH
+745,"Upcerne Road, West Chelsea","upcerne road, west chelsea",True,True,"Upcerne Road, West Chelsea",745,51.478169,-0.182435,ID_AND_NAME_MATCH
+746,"Lots Road, West Chelsea","lots road, west chelsea",True,True,"Lots Road, West Chelsea",746,51.479573,-0.179038,ID_AND_NAME_MATCH
+747,"Ormonde Gate, Chelsea","ormonde gate, chelsea",True,True,"Ormonde Gate, Chelsea",747,51.487964,-0.161765,ID_AND_NAME_MATCH
+748,"Hertford Road, De Beauvoir Town","hertford road, de beauvoir town",True,True,"Hertford Road, De Beauvoir Town",748,51.537277,-0.079201,ID_AND_NAME_MATCH
+749,"Haggerston Road, Haggerston","haggerston road, haggerston",True,True,"Haggerston Road, Haggerston",749,51.539328,-0.074284,ID_AND_NAME_MATCH
+750,"Culvert Road, Battersea","culvert road, battersea",True,True,"Culvert Road, Battersea",750,51.471095,-0.15785,ID_AND_NAME_MATCH
+751,"Newton Street, Covent Garden","newton street, covent garden",True,True,"Newton Street, Covent Garden",751,51.516128,-0.120909,ID_AND_NAME_MATCH
+752,"Manfred Road, East Putney","manfred road, east putney",True,False,"London Street, Paddington",,,,ID_ONLY_REVIEW_REQUIRED
+753,"Hammersmith Town Hall, Hammersmith","hammersmith town hall, hammersmith",True,False,"Clapham South, Clapham South",,,,ID_ONLY_REVIEW_REQUIRED
+754,"Grenfell Road, Avondale","grenfell road, avondale",True,True,"Grenfell Road, Avondale",754,51.5129,-0.214762,ID_AND_NAME_MATCH
+755,"The Vale, Chelsea","the vale, chelsea",True,True,"The Vale, Chelsea",755,51.485121,-0.174971,ID_AND_NAME_MATCH
+756,"Prince of Wales Drive, Battersea Park","prince of wales drive, battersea park",True,True,"Prince of Wales Drive, Battersea Park",756,51.475153,-0.159169,ID_AND_NAME_MATCH
+757,"Harcourt Terrace, West Brompton","harcourt terrace, west brompton",True,True,"Harcourt Terrace, West Brompton",757,51.487958,-0.187404,ID_AND_NAME_MATCH
+758,"Westbourne Park Road, Portobello","westbourne park road, portobello",True,True,"Westbourne Park Road, Portobello",758,51.51787,-0.201005,ID_AND_NAME_MATCH
+759,"Broadley Terrace, Marylebone","broadley terrace, marylebone",True,True,"Broadley Terrace, Marylebone",759,51.524561,-0.165668,ID_AND_NAME_MATCH
+760,"Rossmore Road, Marylebone","rossmore road, marylebone",True,False,"Elgin Avenue, Maida Hill",,,,ID_ONLY_REVIEW_REQUIRED
+761,"Humbolt Road, Fulham","humbolt road, fulham",True,True,"Humbolt Road, Fulham",761,51.483217,-0.21186,ID_AND_NAME_MATCH
+762,"Storey's Gate, Westminster","storey's gate, westminster",True,True,"Storey's Gate, Westminster",762,51.500703,-0.129698,ID_AND_NAME_MATCH
+763,"Mile End Park Leisure Centre, Mile End","mile end park leisure centre, mile end",True,True,"Mile End Park Leisure Centre, Mile End",763,51.520597,-0.032566,ID_AND_NAME_MATCH
+764,"St. John's Road, Clapham Junction","st. john's road, clapham junction",True,True,"St. John's Road, Clapham Junction",764,51.462392,-0.168292,ID_AND_NAME_MATCH
+765,"Ranelagh Gardens, Fulham","ranelagh gardens, fulham",True,True,"Ranelagh Gardens, Fulham",765,51.467601,-0.206827,ID_AND_NAME_MATCH
+766,"Ram Street, Wandsworth","ram street, wandsworth",True,True,"Ram Street, Wandsworth",766,51.457529,-0.192165,ID_AND_NAME_MATCH
+767,"Santos Road, Wandsworth","santos road, wandsworth",True,True,"Santos Road, Wandsworth",767,51.457059,-0.200806,ID_AND_NAME_MATCH
+768,"Clapham Common North Side, Clapham Common","clapham common north side, clapham common",True,True,"Clapham Common North Side, Clapham Common",768,51.461343,-0.159322,ID_AND_NAME_MATCH
+769,"Sandilands Road, Walham Green","sandilands road, walham green",True,True,"Sandilands Road, Walham Green",769,51.473611,-0.191803,ID_AND_NAME_MATCH
+770,"Gwendwr Road, West Kensington","gwendwr road, west kensington",True,True,"Gwendwr Road, West Kensington",770,51.491026,-0.209121,ID_AND_NAME_MATCH
+771,"Rifle Place, Avondale","rifle place, avondale",True,True,"Rifle Place, Avondale",771,51.509224,-0.216016,ID_AND_NAME_MATCH
+772,"Binfield Road, Stockwell","binfield road, stockwell",True,True,"Binfield Road, Stockwell",772,51.472509,-0.122831,ID_AND_NAME_MATCH
+773,"Tallis Street, Temple","tallis street, temple",True,True,"Tallis Street, Temple",773,51.511891,-0.107349,ID_AND_NAME_MATCH
+774,"Hurlingham Park, Parsons Green","hurlingham park, parsons green",True,True,"Hurlingham Park, Parsons Green",774,51.470131,-0.20464,ID_AND_NAME_MATCH
+775,"Little Brook Green, Brook Green","little brook green, brook green",True,True,"Little Brook Green, Brook Green",775,51.496664,-0.223868,ID_AND_NAME_MATCH
+776,"Abyssinia Close, Clapham Junction","abyssinia close, clapham junction",True,False,"Adeline Place, Bloomsbury",,,,ID_ONLY_REVIEW_REQUIRED
+777,"Limburg Road, Clapham Junction","limburg road, clapham junction",False,True,,866,51.461923,-0.165297,NAME_ONLY_MATCH
+779,"Houndsditch, Aldgate","houndsditch, aldgate",True,True,"Houndsditch, Aldgate",779,51.514449,-0.077178,ID_AND_NAME_MATCH
+780,"Imperial Wharf Station, Sands End","imperial wharf station, sands end",True,True,"Imperial Wharf Station, Sands End",780,51.474665,-0.183165,ID_AND_NAME_MATCH
+781,"Victoria & Albert Museum, South Kensington","victoria & albert museum, south kensington",False,True,,878,51.495898,-0.173009,NAME_ONLY_MATCH
+782,"Halford Road, West Kensington","halford road, west kensington",True,True,"Halford Road, West Kensington",782,51.483911,-0.197609,ID_AND_NAME_MATCH
+783,"Monier Road, Hackney Wick","monier road, hackney wick",True,True,"Monier Road, Hackney Wick",783,51.540311,-0.02163,ID_AND_NAME_MATCH
+784,"East Village, Queen Elizabeth Olympic Park","east village, queen elizabeth olympic park",True,True,"East Village, Queen Elizabeth Olympic Park",784,51.546326,-0.009935,ID_AND_NAME_MATCH
+785,"Aquatic Centre, Queen Elizabeth Olympic Park","aquatic centre, queen elizabeth olympic park",True,True,"Aquatic Centre, Queen Elizabeth Olympic Park",785,51.541482,-0.010437,ID_AND_NAME_MATCH
+786,"Lee Valley VeloPark, Queen Elizabeth Olympic Park","lee valley velopark, queen elizabeth olympic park",True,True,"Lee Valley VeloPark, Queen Elizabeth Olympic Park",786,51.549369,-0.015717,ID_AND_NAME_MATCH
+787,"Timber Lodge, Queen Elizabeth Olympic Park","timber lodge, queen elizabeth olympic park",True,True,"Timber Lodge, Queen Elizabeth Olympic Park",787,51.546805,-0.014691,ID_AND_NAME_MATCH
+788,"Copper Box Arena, Queen Elizabeth Olympic Park","copper box arena, queen elizabeth olympic park",True,True,"Copper Box Arena, Queen Elizabeth Olympic Park",788,51.544909,-0.020542,ID_AND_NAME_MATCH
+789,"Podium, Queen Elizabeth Olympic Park","podium, queen elizabeth olympic park",True,True,"Podium, Queen Elizabeth Olympic Park",789,51.538718,-0.011889,ID_AND_NAME_MATCH
+790,"Stratford Station, Stratford","stratford station, stratford",True,True,"Stratford Station, Stratford",790,51.541793,-0.00481,ID_AND_NAME_MATCH
+792,"Blackfriars Road, Southwark","blackfriars road, southwark",True,True,"Blackfriars Road, Southwark",792,51.505461,-0.10454,ID_AND_NAME_MATCH
+793,"Cromer Street, Bloomsbury","cromer street, bloomsbury",True,True,"Cromer Street, Bloomsbury",793,51.528279,-0.119558,ID_AND_NAME_MATCH
+794,"Lansdowne Way Bus Garage, Stockwell","lansdowne way bus garage, stockwell",False,False,,,,,NO_MATCH_REVIEW_REQUIRED
+795,"Melton Street, Euston","melton street, euston",True,False,"Euston Square Gardens, Euston",,,,ID_ONLY_REVIEW_REQUIRED
+796,"Coram Street, Bloomsbury","coram street, bloomsbury",True,True,"Coram Street, Bloomsbury",796,51.524,-0.126409,ID_AND_NAME_MATCH
+797,"Ossulston Street, Somers Town","ossulston street, somers town",True,True,"Ossulston Street, Somers Town",797,51.5293,-0.128279,ID_AND_NAME_MATCH
+798,"Birkenhead Street, King's Cross","birkenhead street, king's cross",True,True,"Birkenhead Street, King's Cross",798,51.530199,-0.122299,ID_AND_NAME_MATCH
+799,"Kings Gate House, Westminster","kings gate house, westminster",True,True,"Kings Gate House, Westminster",799,51.497698,-0.137598,ID_AND_NAME_MATCH
+800,"Sopwith Way, Battersea Park","sopwith way, battersea park",True,True,"Sopwith Way, Battersea Park",800,51.481121,-0.149035,ID_AND_NAME_MATCH
+801,"Lavington Street, Bankside","lavington street, bankside",True,True,"Lavington Street, Bankside",801,51.505224,-0.098031,ID_AND_NAME_MATCH
+802,"Albert Square, Stockwell","albert square, stockwell",True,True,"Albert Square, Stockwell",802,51.47659,-0.118256,ID_AND_NAME_MATCH
+803,"Southwark Street, Bankside","southwark street, bankside",True,True,"Southwark Street, Bankside",803,51.505409,-0.098341,ID_AND_NAME_MATCH
+804,"Good's Way, King's Cross","good's way, king's cross",True,True,"Good's Way, King's Cross",804,51.534667,-0.125078,ID_AND_NAME_MATCH
+805,"Bevington Road, North Kensington","bevington road, north kensington",True,False,"The Metropolitan, Portobello",,,,ID_ONLY_REVIEW_REQUIRED
+806,"Handyside Street, King's Cross","handyside street, king's cross",False,True,,874,51.53724,-0.124807,NAME_ONLY_MATCH
+807,"Bevington Road West, North Kensington","bevington road west, north kensington",True,True,"Bevington Road West, North Kensington",807,51.5212,-0.208888,ID_AND_NAME_MATCH
+808,"Stockwell Roundabout, Stockwell","stockwell roundabout, stockwell",True,False,"Gauden Road, Clapham",,,,ID_ONLY_REVIEW_REQUIRED
+809,"Lincoln's Inn Fields, Holborn","lincoln's inn fields, holborn",True,True,"Lincoln's Inn Fields, Holborn",809,51.516277,-0.118272,ID_AND_NAME_MATCH
+810,"Tate Modern, Bankside","tate modern, bankside",True,True,"Tate Modern, Bankside",810,51.506725,-0.098807,ID_AND_NAME_MATCH
+811,"Westferry Circus, Canary Wharf","westferry circus, canary wharf",True,True,"Westferry Circus, Canary Wharf",811,51.505703,-0.027772,ID_AND_NAME_MATCH
+812,"Here East North, Queen Elizabeth Olympic Park","here east north, queen elizabeth olympic park",True,True,"Here East North, Queen Elizabeth Olympic Park",812,51.548731,-0.022606,ID_AND_NAME_MATCH
+813,"New Spring Gardens Walk, Vauxhall","new spring gardens walk, vauxhall",True,True,"New Spring Gardens Walk, Vauxhall",813,51.487807,-0.122759,ID_AND_NAME_MATCH
+814,"Clapham Road, Lingham Street, Stockwell","clapham road, lingham street, stockwell",True,True,"Clapham Road, Lingham Street, Stockwell",814,51.471433,-0.12367,ID_AND_NAME_MATCH
+815,"Lambeth Palace Road, Waterloo","lambeth palace road, waterloo",True,True,"Lambeth Palace Road, Waterloo",815,51.500089,-0.116628,ID_AND_NAME_MATCH
+816,"Here East South, Queen Elizabeth Olympic Park","here east south, queen elizabeth olympic park",True,True,"Here East South, Queen Elizabeth Olympic Park",816,51.546532,-0.020597,ID_AND_NAME_MATCH
+817,"Riverlight South, Nine Elms","riverlight south, nine elms",False,False,,,,,NO_MATCH_REVIEW_REQUIRED
+818,"One Tower Bridge, Bermondsey","one tower bridge, bermondsey",True,False,"Westminster Pier, Westminster",,,,ID_ONLY_REVIEW_REQUIRED
+819,"Belvedere Road 2, South Bank","belvedere road 2, south bank",True,True,"Belvedere Road 2, South Bank",819,51.50621,-0.114842,ID_AND_NAME_MATCH
+820,"Victory Place, Walworth","victory place, walworth",True,True,"Victory Place, Walworth",820,51.492807,-0.091938,ID_AND_NAME_MATCH
+821,"Battersea Power Station, Battersea Park","battersea power station, battersea park",True,True,"Battersea Power Station, Battersea Park",821,51.483507,-0.147714,ID_AND_NAME_MATCH
+826,"Allington street, Westminster","allington street, westminster",True,False,"Allington Street, Victoria",,,,ID_ONLY_REVIEW_REQUIRED
+827,"Cranmer Road, Stockwell","cranmer road, stockwell",True,True,"Cranmer Road, Stockwell",827,51.479601,-0.111471,ID_AND_NAME_MATCH
+828,"Normandy Road, Stockwell","normandy road, stockwell",True,True,"Normandy Road, Stockwell",828,51.473874,-0.11258,ID_AND_NAME_MATCH
+829,"Wynne Road, Stockwell","wynne road, stockwell",True,True,"Wynne Road, Stockwell",829,51.469217,-0.112686,ID_AND_NAME_MATCH
+830,"Sidney Road, Stockwell","sidney road, stockwell",True,True,"Sidney Road, Stockwell",830,51.469202,-0.119022,ID_AND_NAME_MATCH
+831,"St John's Crescent, Brixton","st john's crescent, brixton",True,True,"St John's Crescent, Brixton",831,51.466232,-0.113179,ID_AND_NAME_MATCH
+832,"Ferndale Road, Brixton. ","ferndale road, brixton.",True,False,"Ferndale Road, Brixton",,,,ID_ONLY_REVIEW_REQUIRED
+833,"Saltoun Road, Brixton","saltoun road, brixton",True,True,"Saltoun Road, Brixton",833,51.460232,-0.115375,ID_AND_NAME_MATCH
